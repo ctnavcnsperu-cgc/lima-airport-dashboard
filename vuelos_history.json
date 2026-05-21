@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "21/05/2026 06:20:54",
-    "conteo": 255,
+    "ultima_sincronizacion": "21/05/2026 06:30:51",
+    "conteo": 257,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2550,6 +2550,26 @@
             "ciudad": "PUCALLPA",
             "vuelo": "2I3111",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "21/05/2026",
+            "hora_prog": "09:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2123",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "21/05/2026",
+            "hora_prog": "13:10",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2124",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
