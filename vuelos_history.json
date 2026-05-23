@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "23/05/2026 09:00:56",
-    "conteo": 279,
+    "ultima_sincronizacion": "23/05/2026 09:10:56",
+    "conteo": 280,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2789,6 +2789,16 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2075",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "23/05/2026",
+            "hora_prog": "09:25",
+            "hora_real": "",
+            "ciudad": "PIURA",
+            "vuelo": "LA2303",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
