@@ -1,125 +1,45 @@
 {
-    "ultima_sincronizacion": "22/05/2026 23:50:43",
-    "conteo": 12,
+    "ultima_sincronizacion": "23/05/2026 00:01:02",
+    "conteo": 4,
     "vuelos": [
         {
             "tipo": "SALIDAS",
-            "fecha": "22/05/2026",
-            "hora_prog": "07:00",
-            "hora_real": "",
-            "ciudad": "PIA",
-            "vuelo": "S4A034",
-            "aerolinea": "AEROLÍNEA",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "22/05/2026",
-            "hora_prog": "07:15",
-            "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2123",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "22/05/2026",
+            "fecha": "23/05/2026",
             "hora_prog": "07:55",
             "hora_real": "",
             "ciudad": "TARAPOTO",
-            "vuelo": "2I3115",
+            "vuelo": "2I3147",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "22/05/2026",
-            "hora_prog": "08:25",
-            "hora_real": "",
-            "ciudad": "HUANUCO",
-            "vuelo": "2I4120",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "22/05/2026",
-            "hora_prog": "14:55",
-            "hora_real": "",
-            "ciudad": "NUEVO MUNDO",
-            "vuelo": "4A068",
-            "aerolinea": "ATSA Aero Transporte",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "22/05/2026",
-            "hora_prog": "10:20",
+            "fecha": "23/05/2026",
+            "hora_prog": "18:55",
             "hora_real": "",
             "ciudad": "CHICLAYO",
-            "vuelo": "2I2124",
+            "vuelo": "2I2225",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "22/05/2026",
-            "hora_prog": "10:35",
-            "hora_real": "",
-            "ciudad": "HUANUCO",
-            "vuelo": "2I4121",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "22/05/2026",
-            "hora_prog": "11:55",
-            "hora_real": "",
-            "ciudad": "PIA",
-            "vuelo": "S4A035",
-            "aerolinea": "AEROLÍNEA",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "22/05/2026",
-            "hora_prog": "14:00",
+            "fecha": "23/05/2026",
+            "hora_prog": "10:50",
             "hora_real": "",
             "ciudad": "TARAPOTO",
-            "vuelo": "2I3116",
+            "vuelo": "2I3148",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "22/05/2026",
-            "hora_prog": "17:50",
+            "fecha": "23/05/2026",
+            "hora_prog": "22:00",
             "hora_real": "",
-            "ciudad": "NUEVO MUNDO",
-            "vuelo": "4A069",
-            "aerolinea": "ATSA Aero Transporte",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "22/05/2026",
-            "hora_prog": "15:30",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2028",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "22/05/2026",
-            "hora_prog": "19:10",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2029",
-            "aerolinea": "LATAM Airlines",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2226",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
