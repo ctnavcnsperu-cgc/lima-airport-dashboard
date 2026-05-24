@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/05/2026 18:30:49",
-    "conteo": 290,
+    "ultima_sincronizacion": "24/05/2026 18:40:40",
+    "conteo": 291,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2900,6 +2900,16 @@
             "ciudad": "HUANUCO",
             "vuelo": "4A1985",
             "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/05/2026",
+            "hora_prog": "17:15",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "LA2294",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
