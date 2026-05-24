@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/05/2026 05:00:49",
-    "conteo": 285,
+    "ultima_sincronizacion": "24/05/2026 05:10:54",
+    "conteo": 287,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2850,6 +2850,26 @@
             "ciudad": "CHICLAYO",
             "vuelo": "2I2228",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/05/2026",
+            "hora_prog": "04:50",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2344",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/05/2026",
+            "hora_prog": "08:20",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2343",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
