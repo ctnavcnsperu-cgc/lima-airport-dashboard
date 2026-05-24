@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/05/2026 17:11:08",
-    "conteo": 6,
+    "ultima_sincronizacion": "24/05/2026 17:20:45",
+    "conteo": 7,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -60,6 +60,16 @@
             "ciudad": "AREQUIPA",
             "vuelo": "LA2112",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/05/2026",
+            "hora_prog": "18:00",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "4A1985",
+            "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
     ]
