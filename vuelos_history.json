@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "25/05/2026 07:50:43",
-    "conteo": 309,
+    "ultima_sincronizacion": "25/05/2026 08:00:43",
+    "conteo": 311,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3089,6 +3089,26 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2118",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "25/05/2026",
+            "hora_prog": "11:35",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "LA2019",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "25/05/2026",
+            "hora_prog": "15:55",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "LA2038",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
