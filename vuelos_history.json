@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "25/05/2026 07:20:49",
-    "conteo": 305,
+    "ultima_sincronizacion": "25/05/2026 07:30:59",
+    "conteo": 309,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3049,6 +3049,46 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2014",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "25/05/2026",
+            "hora_prog": "07:25",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2209",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "25/05/2026",
+            "hora_prog": "08:30",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2119",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "25/05/2026",
+            "hora_prog": "11:25",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2210",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "25/05/2026",
+            "hora_prog": "12:35",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2118",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
