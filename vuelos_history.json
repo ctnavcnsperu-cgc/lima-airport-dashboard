@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "27/05/2026 08:20:45",
-    "conteo": 345,
+    "ultima_sincronizacion": "27/05/2026 08:30:59",
+    "conteo": 349,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3450,6 +3450,46 @@
             "ciudad": "CUSCO",
             "vuelo": "JA7021",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "27/05/2026",
+            "hora_prog": "08:40",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2013",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/05/2026",
+            "hora_prog": "09:50",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7020",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/05/2026",
+            "hora_prog": "10:05",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2293",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/05/2026",
+            "hora_prog": "12:15",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2014",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
