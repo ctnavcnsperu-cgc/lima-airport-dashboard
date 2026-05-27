@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "27/05/2026 07:31:03",
-    "conteo": 11,
+    "ultima_sincronizacion": "27/05/2026 08:01:07",
+    "conteo": 18,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -109,6 +109,76 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2344",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "27/05/2026",
+            "hora_prog": "08:45",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2011",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/05/2026",
+            "hora_prog": "08:20",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2343",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/05/2026",
+            "hora_prog": "09:05",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2010",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "27/05/2026",
+            "hora_prog": "08:44",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2032",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "27/05/2026",
+            "hora_prog": "08:46",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2005",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/05/2026",
+            "hora_prog": "10:00",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2033",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/05/2026",
+            "hora_prog": "11:30",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2104",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
