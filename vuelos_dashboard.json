@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "27/05/2026 09:21:11",
-    "conteo": 26,
+    "ultima_sincronizacion": "27/05/2026 09:31:00",
+    "conteo": 28,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -260,6 +260,26 @@
             "ciudad": "CUSCO",
             "vuelo": "H25722",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "27/05/2026",
+            "hora_prog": "09:10",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2007",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/05/2026",
+            "hora_prog": "12:55",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2008",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
