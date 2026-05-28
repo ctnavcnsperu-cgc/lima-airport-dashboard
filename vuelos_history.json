@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "27/05/2026 18:50:52",
-    "conteo": 356,
+    "ultima_sincronizacion": "27/05/2026 19:00:42",
+    "conteo": 357,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3559,6 +3559,16 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2112",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/05/2026",
+            "hora_prog": "22:45",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2138",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
