@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "30/05/2026 23:50:44",
-    "conteo": 382,
+    "ultima_sincronizacion": "31/05/2026 00:00:58",
+    "conteo": 386,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3819,6 +3819,46 @@
             "hora_real": "",
             "ciudad": "CHICLAYO",
             "vuelo": "2I2226",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "31/05/2026",
+            "hora_prog": "07:55",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3115",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "31/05/2026",
+            "hora_prog": "12:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2227",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "31/05/2026",
+            "hora_prog": "14:00",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3116",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "31/05/2026",
+            "hora_prog": "15:25",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2228",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
