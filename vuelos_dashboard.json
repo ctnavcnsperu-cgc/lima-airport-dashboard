@@ -1,20 +1,20 @@
 {
-    "ultima_sincronizacion": "31/05/2026 23:50:45",
-    "conteo": 6,
+    "ultima_sincronizacion": "01/06/2026 00:01:01",
+    "conteo": 8,
     "vuelos": [
         {
             "tipo": "SALIDAS",
-            "fecha": "31/05/2026",
-            "hora_prog": "07:55",
+            "fecha": "01/06/2026",
+            "hora_prog": "07:15",
             "hora_real": "",
-            "ciudad": "TARAPOTO",
-            "vuelo": "2I3115",
+            "ciudad": "IQUITOS",
+            "vuelo": "2I3111",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "31/05/2026",
+            "fecha": "01/06/2026",
             "hora_prog": "12:20",
             "hora_real": "",
             "ciudad": "CHICLAYO",
@@ -23,18 +23,38 @@
             "estado": "CANCELADO"
         },
         {
-            "tipo": "LLEGADAS",
-            "fecha": "31/05/2026",
-            "hora_prog": "14:00",
+            "tipo": "SALIDAS",
+            "fecha": "01/06/2026",
+            "hora_prog": "14:05",
             "hora_real": "",
             "ciudad": "TARAPOTO",
-            "vuelo": "2I3116",
+            "vuelo": "2I3143",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "01/06/2026",
+            "hora_prog": "18:15",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3233",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "31/05/2026",
+            "fecha": "01/06/2026",
+            "hora_prog": "12:20",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3111",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "01/06/2026",
             "hora_prog": "15:25",
             "hora_real": "",
             "ciudad": "CHICLAYO",
@@ -43,23 +63,23 @@
             "estado": "CANCELADO"
         },
         {
-            "tipo": "SALIDAS",
-            "fecha": "31/05/2026",
-            "hora_prog": "16:30",
+            "tipo": "LLEGADAS",
+            "fecha": "01/06/2026",
+            "hora_prog": "16:55",
             "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2276",
-            "aerolinea": "LATAM Airlines",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3144",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "31/05/2026",
-            "hora_prog": "20:25",
+            "fecha": "01/06/2026",
+            "hora_prog": "20:55",
             "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2277",
-            "aerolinea": "LATAM Airlines",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3234",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
