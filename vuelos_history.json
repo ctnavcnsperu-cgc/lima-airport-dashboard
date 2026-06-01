@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "01/06/2026 07:10:53",
-    "conteo": 397,
+    "ultima_sincronizacion": "01/06/2026 07:21:05",
+    "conteo": 399,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3970,6 +3970,26 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2167",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "01/06/2026",
+            "hora_prog": "08:45",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "H25402",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "01/06/2026",
+            "hora_prog": "09:00",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "H25403",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
