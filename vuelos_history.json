@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "02/06/2026 23:50:50",
-    "conteo": 410,
+    "ultima_sincronizacion": "03/06/2026 00:01:00",
+    "conteo": 419,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4099,6 +4099,96 @@
             "hora_real": "",
             "ciudad": "CHICLAYO",
             "vuelo": "2I2226",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/06/2026",
+            "hora_prog": "06:45",
+            "hora_real": "",
+            "ciudad": "AYACUCHO",
+            "vuelo": "H25205",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/06/2026",
+            "hora_prog": "07:55",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3115",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/06/2026",
+            "hora_prog": "09:55",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25007",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/06/2026",
+            "hora_prog": "12:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2227",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/06/2026",
+            "hora_prog": "19:05",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3243",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/06/2026",
+            "hora_prog": "13:55",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25008",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/06/2026",
+            "hora_prog": "14:00",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3116",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/06/2026",
+            "hora_prog": "15:25",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2228",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/06/2026",
+            "hora_prog": "22:00",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3244",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
