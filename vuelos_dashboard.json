@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "03/06/2026 14:20:40",
-    "conteo": 10,
+    "ultima_sincronizacion": "03/06/2026 14:30:59",
+    "conteo": 12,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -100,6 +100,26 @@
             "ciudad": "CAJAMARCA",
             "vuelo": "LA2290",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/06/2026",
+            "hora_prog": "15:00",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "4A4043",
+            "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/06/2026",
+            "hora_prog": "17:15",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "4A4044",
+            "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
     ]
