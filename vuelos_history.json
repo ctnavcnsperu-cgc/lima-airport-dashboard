@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "07/06/2026 16:00:54",
-    "conteo": 449,
+    "ultima_sincronizacion": "07/06/2026 16:10:46",
+    "conteo": 450,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4489,6 +4489,16 @@
             "hora_real": "",
             "ciudad": "TARAPOTO",
             "vuelo": "2I3244",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "07/06/2026",
+            "hora_prog": "19:05",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3243",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
