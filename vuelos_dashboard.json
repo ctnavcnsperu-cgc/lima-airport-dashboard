@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "09/06/2026 11:01:04",
-    "conteo": 13,
+    "ultima_sincronizacion": "09/06/2026 11:10:55",
+    "conteo": 14,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -129,6 +129,16 @@
             "hora_real": "",
             "ciudad": "TARAPOTO",
             "vuelo": "LA2087",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "09/06/2026",
+            "hora_prog": "17:30",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "LA2088",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
