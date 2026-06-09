@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "09/06/2026 11:30:56",
-    "conteo": 474,
+    "ultima_sincronizacion": "09/06/2026 11:40:50",
+    "conteo": 475,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4739,6 +4739,16 @@
             "hora_real": "",
             "ciudad": "TARAPOTO",
             "vuelo": "LA2088",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "09/06/2026",
+            "hora_prog": "13:05",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2275",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
