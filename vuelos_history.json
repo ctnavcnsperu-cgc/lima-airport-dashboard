@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "09/06/2026 09:00:58",
-    "conteo": 470,
+    "ultima_sincronizacion": "09/06/2026 09:11:00",
+    "conteo": 472,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4699,6 +4699,26 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2008",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "09/06/2026",
+            "hora_prog": "10:30",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2109",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "09/06/2026",
+            "hora_prog": "14:20",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2108",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
