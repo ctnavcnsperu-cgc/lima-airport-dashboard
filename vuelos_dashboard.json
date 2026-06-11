@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "10/06/2026 20:20:48",
-    "conteo": 10,
+    "ultima_sincronizacion": "10/06/2026 20:30:40",
+    "conteo": 11,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -100,6 +100,16 @@
             "ciudad": "PIA",
             "vuelo": "S4A2088",
             "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "10/06/2026",
+            "hora_prog": "17:10",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2208",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
