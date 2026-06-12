@@ -1,145 +1,25 @@
 {
-    "ultima_sincronizacion": "11/06/2026 23:51:00",
-    "conteo": 14,
+    "ultima_sincronizacion": "12/06/2026 00:01:06",
+    "conteo": 2,
     "vuelos": [
         {
             "tipo": "SALIDAS",
-            "fecha": "11/06/2026",
-            "hora_prog": "07:15",
+            "fecha": "12/06/2026",
+            "hora_prog": "15:00",
             "hora_real": "",
-            "ciudad": "IQUITOS",
-            "vuelo": "2I3111",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "11/06/2026",
-            "hora_prog": "07:55",
-            "hora_real": "",
-            "ciudad": "TARAPOTO",
-            "vuelo": "2I3147",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "11/06/2026",
-            "hora_prog": "11:55",
-            "hora_real": "",
-            "ciudad": "HUANUCO",
-            "vuelo": "2I4222",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "11/06/2026",
-            "hora_prog": "18:55",
-            "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2225",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "11/06/2026",
-            "hora_prog": "19:05",
-            "hora_real": "",
-            "ciudad": "TARAPOTO",
-            "vuelo": "2I3243",
-            "aerolinea": "Star Peru",
+            "ciudad": "TINGO MARIA",
+            "vuelo": "MARÍA 4A4025",
+            "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "11/06/2026",
-            "hora_prog": "10:50",
+            "fecha": "12/06/2026",
+            "hora_prog": "17:50",
             "hora_real": "",
-            "ciudad": "TARAPOTO",
-            "vuelo": "2I3148",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "11/06/2026",
-            "hora_prog": "12:20",
-            "hora_real": "",
-            "ciudad": "PUCALLPA",
-            "vuelo": "2I3111",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "11/06/2026",
-            "hora_prog": "14:10",
-            "hora_real": "",
-            "ciudad": "HUANUCO",
-            "vuelo": "2I4223",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "11/06/2026",
-            "hora_prog": "22:00",
-            "hora_real": "",
-            "ciudad": "TARAPOTO",
-            "vuelo": "2I3244",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "11/06/2026",
-            "hora_prog": "22:00",
-            "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2226",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "11/06/2026",
-            "hora_prog": "09:10",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2007",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "11/06/2026",
-            "hora_prog": "12:55",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2008",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "11/06/2026",
-            "hora_prog": "17:10",
-            "hora_real": "",
-            "ciudad": "HUANUCO",
-            "vuelo": "4A4044",
-            "aerolinea": "ATSA Aero Transporte",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "11/06/2026",
-            "hora_prog": "15:40",
-            "hora_real": "",
-            "ciudad": "AREQUIPA",
-            "vuelo": "LA2110",
-            "aerolinea": "LATAM Airlines",
+            "ciudad": "TINGO MARIA",
+            "vuelo": "MARÍA 4A4026",
+            "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         }
     ]
