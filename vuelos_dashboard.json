@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/06/2026 17:21:01",
-    "conteo": 14,
+    "ultima_sincronizacion": "17/06/2026 17:30:50",
+    "conteo": 16,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -139,6 +139,26 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2118",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/06/2026",
+            "hora_prog": "19:25",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2069",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/06/2026",
+            "hora_prog": "23:50",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2070",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
