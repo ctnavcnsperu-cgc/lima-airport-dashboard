@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/06/2026 14:10:50",
-    "conteo": 13,
+    "ultima_sincronizacion": "17/06/2026 14:21:10",
+    "conteo": 14,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -130,6 +130,16 @@
             "ciudad": "CUSCO",
             "vuelo": "JA7024",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/06/2026",
+            "hora_prog": "12:35",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2118",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
