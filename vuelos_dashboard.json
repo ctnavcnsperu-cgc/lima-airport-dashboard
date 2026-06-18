@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/06/2026 19:51:00",
-    "conteo": 16,
+    "ultima_sincronizacion": "17/06/2026 20:00:51",
+    "conteo": 17,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -159,6 +159,16 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2070",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/06/2026",
+            "hora_prog": "17:55",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "LA2235",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
