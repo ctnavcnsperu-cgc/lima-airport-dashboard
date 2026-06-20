@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/06/2026 23:50:55",
-    "conteo": 560,
+    "ultima_sincronizacion": "20/06/2026 00:00:55",
+    "conteo": 562,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -5600,6 +5600,26 @@
             "ciudad": "IQUITOS",
             "vuelo": "LA2230",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "20/06/2026",
+            "hora_prog": "10:10",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A042",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "20/06/2026",
+            "hora_prog": "13:00",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A043",
+            "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         }
     ]
