@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "20/06/2026 08:20:52",
-    "conteo": 2,
+    "ultima_sincronizacion": "20/06/2026 08:30:57",
+    "conteo": 3,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -20,6 +20,16 @@
             "ciudad": "MALVINA",
             "vuelo": "S4A043",
             "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "20/06/2026",
+            "hora_prog": "11:40",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2111",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
