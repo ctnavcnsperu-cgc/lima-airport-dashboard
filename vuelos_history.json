@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "21/06/2026 11:10:55",
-    "conteo": 565,
+    "ultima_sincronizacion": "21/06/2026 11:20:51",
+    "conteo": 566,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -5650,6 +5650,16 @@
             "ciudad": "CHICLAYO",
             "vuelo": "2I2124",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "21/06/2026",
+            "hora_prog": "09:55",
+            "hora_real": "",
+            "ciudad": "ANTA - HUARAZ",
+            "vuelo": "LA2060",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
