@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "22/06/2026 07:10:57",
-    "conteo": 2,
+    "ultima_sincronizacion": "22/06/2026 07:20:57",
+    "conteo": 3,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -20,6 +20,16 @@
             "ciudad": "MAZAMARI",
             "vuelo": "4A4096",
             "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "22/06/2026",
+            "hora_prog": "14:20",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2108",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
