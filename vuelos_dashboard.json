@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "22/06/2026 13:40:56",
-    "conteo": 6,
+    "ultima_sincronizacion": "22/06/2026 13:50:59",
+    "conteo": 7,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -59,6 +59,16 @@
             "hora_real": "",
             "ciudad": "TRUJILLO",
             "vuelo": "LA2139",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "22/06/2026",
+            "hora_prog": "20:55",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2140",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
