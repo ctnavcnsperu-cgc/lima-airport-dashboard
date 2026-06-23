@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "23/06/2026 09:31:05",
-    "conteo": 575,
+    "ultima_sincronizacion": "23/06/2026 09:41:02",
+    "conteo": 576,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -5750,6 +5750,16 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2036",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "23/06/2026",
+            "hora_prog": "09:00",
+            "hora_real": "",
+            "ciudad": "ANDAHUAYLAS",
+            "vuelo": "4A4072",
+            "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
     ]
