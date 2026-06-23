@@ -1,84 +1,14 @@
 {
-    "ultima_sincronizacion": "22/06/2026 23:50:44",
-    "conteo": 8,
+    "ultima_sincronizacion": "23/06/2026 00:00:56",
+    "conteo": 1,
     "vuelos": [
         {
-            "tipo": "SALIDAS",
-            "fecha": "22/06/2026",
-            "hora_prog": "15:00",
-            "hora_real": "",
-            "ciudad": "MAZAMARI",
-            "vuelo": "4A4095",
-            "aerolinea": "ATSA Aero Transporte",
-            "estado": "CANCELADO"
-        },
-        {
             "tipo": "LLEGADAS",
-            "fecha": "22/06/2026",
-            "hora_prog": "18:00",
-            "hora_real": "",
-            "ciudad": "MAZAMARI",
-            "vuelo": "4A4096",
-            "aerolinea": "ATSA Aero Transporte",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "22/06/2026",
-            "hora_prog": "14:20",
-            "hora_real": "",
-            "ciudad": "AREQUIPA",
-            "vuelo": "LA2108",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "22/06/2026",
-            "hora_prog": "10:30",
-            "hora_real": "",
-            "ciudad": "AREQUIPA",
-            "vuelo": "LA2109",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "22/06/2026",
-            "hora_prog": "12:00",
-            "hora_real": "",
-            "ciudad": "TARAPOTO",
-            "vuelo": "LA2086",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "22/06/2026",
-            "hora_prog": "17:55",
-            "hora_real": "",
-            "ciudad": "TRUJILLO",
-            "vuelo": "LA2139",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "22/06/2026",
-            "hora_prog": "20:55",
-            "hora_real": "",
-            "ciudad": "TRUJILLO",
-            "vuelo": "LA2140",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "22/06/2026",
-            "hora_prog": "20:35",
+            "fecha": "23/06/2026",
+            "hora_prog": "00:15",
             "hora_real": "",
             "ciudad": "CUSCO",
-            "vuelo": "LA2035",
+            "vuelo": "LA2036",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
