@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "23/06/2026 16:20:47",
-    "conteo": 579,
+    "ultima_sincronizacion": "23/06/2026 16:30:52",
+    "conteo": 580,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -5790,6 +5790,16 @@
             "ciudad": "NUEVO MUNDO",
             "vuelo": "4A073",
             "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "23/06/2026",
+            "hora_prog": "19:10",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2121",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
