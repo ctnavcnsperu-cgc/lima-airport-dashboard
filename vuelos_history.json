@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "23/06/2026 23:50:48",
-    "conteo": 580,
+    "ultima_sincronizacion": "24/06/2026 00:01:07",
+    "conteo": 590,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -5800,6 +5800,106 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2121",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "04:50",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2344",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "07:15",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2123",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "09:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2123",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "14:15",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2135",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "19:05",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3243",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "08:20",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2343",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "10:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2124",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "13:10",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2124",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "17:30",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2136",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "22:00",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3244",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
