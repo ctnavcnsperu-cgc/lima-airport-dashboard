@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/06/2026 13:50:48",
-    "conteo": 16,
+    "ultima_sincronizacion": "24/06/2026 14:00:59",
+    "conteo": 18,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -160,6 +160,26 @@
             "ciudad": "HUANUCO",
             "vuelo": "4A4044",
             "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "15:05",
+            "hora_real": "",
+            "ciudad": "AYACUCHO",
+            "vuelo": "LA2186",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "15:15",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "LA2297",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
