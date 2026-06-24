@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/06/2026 15:01:01",
-    "conteo": 603,
+    "ultima_sincronizacion": "24/06/2026 15:10:57",
+    "conteo": 608,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -6029,6 +6029,56 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2114",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "18:35",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "LA2361",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "19:10",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2313",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "19:45",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2212",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "20:25",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2277",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "20:30",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2046",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
