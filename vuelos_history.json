@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/06/2026 14:10:53",
-    "conteo": 598,
+    "ultima_sincronizacion": "24/06/2026 14:21:02",
+    "conteo": 603,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -5979,6 +5979,56 @@
             "hora_real": "",
             "ciudad": "CAJAMARCA",
             "vuelo": "LA2297",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "16:30",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2276",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "17:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2115",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "17:55",
+            "hora_real": "",
+            "ciudad": "AYACUCHO",
+            "vuelo": "LA2185",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "18:25",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "LA2296",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "21:00",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2114",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
