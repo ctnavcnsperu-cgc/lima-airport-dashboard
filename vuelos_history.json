@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/06/2026 16:40:53",
-    "conteo": 615,
+    "ultima_sincronizacion": "24/06/2026 16:50:53",
+    "conteo": 616,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -6149,6 +6149,16 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2217",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "20:55",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2140",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
