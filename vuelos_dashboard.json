@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/06/2026 16:50:53",
-    "conteo": 36,
+    "ultima_sincronizacion": "24/06/2026 17:01:05",
+    "conteo": 39,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -359,6 +359,36 @@
             "hora_real": "",
             "ciudad": "TRUJILLO",
             "vuelo": "LA2140",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "17:30",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2045",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "17:55",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2139",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "18:00",
+            "hora_real": "",
+            "ciudad": "PIURA",
+            "vuelo": "LA2236",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
