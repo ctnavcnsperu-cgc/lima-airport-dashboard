@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/06/2026 15:30:54",
-    "conteo": 31,
+    "ultima_sincronizacion": "24/06/2026 15:40:49",
+    "conteo": 34,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -309,6 +309,36 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2218",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "15:30",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2312",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "15:45",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2211",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/06/2026",
+            "hora_prog": "17:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2213",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
