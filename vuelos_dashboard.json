@@ -1,131 +1,21 @@
 {
-    "ultima_sincronizacion": "24/06/2026 23:51:04",
-    "conteo": 39,
+    "ultima_sincronizacion": "25/06/2026 00:01:13",
+    "conteo": 4,
     "vuelos": [
         {
             "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "04:50",
+            "fecha": "25/06/2026",
+            "hora_prog": "08:25",
             "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2344",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "07:15",
-            "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2123",
+            "ciudad": "HUANUCO",
+            "vuelo": "2I4120",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "09:15",
-            "hora_real": "",
-            "ciudad": "AREQUIPA",
-            "vuelo": "LA2123",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "14:15",
-            "hora_real": "",
-            "ciudad": "TRUJILLO",
-            "vuelo": "LA2135",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "19:05",
-            "hora_real": "",
-            "ciudad": "TARAPOTO",
-            "vuelo": "2I3243",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "08:20",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2343",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "10:20",
-            "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2124",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "13:10",
-            "hora_real": "",
-            "ciudad": "AREQUIPA",
-            "vuelo": "LA2124",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "17:30",
-            "hora_real": "",
-            "ciudad": "TRUJILLO",
-            "vuelo": "LA2136",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "22:00",
-            "hora_real": "",
-            "ciudad": "TARAPOTO",
-            "vuelo": "2I3244",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "12:30",
-            "hora_real": "",
-            "ciudad": "MALVINA",
-            "vuelo": "S4A2205",
-            "aerolinea": "AEROLÍNEA",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "13:40",
-            "hora_real": "",
-            "ciudad": "MAZAMARI",
-            "vuelo": "4A4093",
-            "aerolinea": "ATSA Aero Transporte",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "15:00",
+            "fecha": "25/06/2026",
+            "hora_prog": "14:55",
             "hora_real": "",
             "ciudad": "HUANUCO",
             "vuelo": "4A4043",
@@ -134,262 +24,22 @@
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "14:30",
+            "fecha": "25/06/2026",
+            "hora_prog": "10:35",
             "hora_real": "",
-            "ciudad": "MALVINA",
-            "vuelo": "S4A2205",
-            "aerolinea": "AEROLÍNEA",
+            "ciudad": "HUANUCO",
+            "vuelo": "2I4121",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "16:30",
-            "hora_real": "",
-            "ciudad": "MAZAMARI",
-            "vuelo": "4A4094",
-            "aerolinea": "ATSA Aero Transporte",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "17:15",
+            "fecha": "25/06/2026",
+            "hora_prog": "17:10",
             "hora_real": "",
             "ciudad": "HUANUCO",
             "vuelo": "4A4044",
             "aerolinea": "ATSA Aero Transporte",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "15:05",
-            "hora_real": "",
-            "ciudad": "AYACUCHO",
-            "vuelo": "LA2186",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "15:15",
-            "hora_real": "",
-            "ciudad": "CAJAMARCA",
-            "vuelo": "LA2297",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "16:30",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2276",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "17:15",
-            "hora_real": "",
-            "ciudad": "AREQUIPA",
-            "vuelo": "LA2115",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "17:55",
-            "hora_real": "",
-            "ciudad": "AYACUCHO",
-            "vuelo": "LA2185",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "18:25",
-            "hora_real": "",
-            "ciudad": "CAJAMARCA",
-            "vuelo": "LA2296",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "21:00",
-            "hora_real": "",
-            "ciudad": "AREQUIPA",
-            "vuelo": "LA2114",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "18:35",
-            "hora_real": "",
-            "ciudad": "PUCALLPA",
-            "vuelo": "LA2361",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "19:10",
-            "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "LA2313",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "19:45",
-            "hora_real": "",
-            "ciudad": "JULIACA",
-            "vuelo": "LA2212",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "20:25",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2277",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "20:30",
-            "hora_real": "",
-            "ciudad": "TRUJILLO",
-            "vuelo": "LA2046",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "15:20",
-            "hora_real": "",
-            "ciudad": "PUCALLPA",
-            "vuelo": "LA2360",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "21:50",
-            "hora_real": "",
-            "ciudad": "PIURA",
-            "vuelo": "LA2237",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "21:55",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2218",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "15:30",
-            "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "LA2312",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "15:45",
-            "hora_real": "",
-            "ciudad": "JULIACA",
-            "vuelo": "LA2211",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "17:20",
-            "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "LA2213",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "18:15",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2217",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "20:55",
-            "hora_real": "",
-            "ciudad": "TRUJILLO",
-            "vuelo": "LA2140",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "17:30",
-            "hora_real": "",
-            "ciudad": "TRUJILLO",
-            "vuelo": "LA2045",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "17:55",
-            "hora_real": "",
-            "ciudad": "TRUJILLO",
-            "vuelo": "LA2139",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "24/06/2026",
-            "hora_prog": "18:00",
-            "hora_real": "",
-            "ciudad": "PIURA",
-            "vuelo": "LA2236",
-            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
