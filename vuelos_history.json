@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "25/06/2026 19:21:03",
-    "conteo": 623,
+    "ultima_sincronizacion": "25/06/2026 19:31:04",
+    "conteo": 624,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -6230,6 +6230,16 @@
             "ciudad": "HUANUCO",
             "vuelo": "4A4044",
             "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "25/06/2026",
+            "hora_prog": "17:35",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2233",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
