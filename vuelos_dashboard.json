@@ -1,45 +1,15 @@
 {
-    "ultima_sincronizacion": "26/06/2026 23:50:52",
-    "conteo": 4,
+    "ultima_sincronizacion": "27/06/2026 00:00:54",
+    "conteo": 1,
     "vuelos": [
         {
-            "tipo": "SALIDAS",
-            "fecha": "26/06/2026",
-            "hora_prog": "08:40",
-            "hora_real": "",
-            "ciudad": "MAZAMARI",
-            "vuelo": "4A4095",
-            "aerolinea": "ATSA Aero Transporte",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "26/06/2026",
-            "hora_prog": "11:55",
-            "hora_real": "",
-            "ciudad": "HUANUCO",
-            "vuelo": "2I4222",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
             "tipo": "LLEGADAS",
-            "fecha": "26/06/2026",
-            "hora_prog": "11:50",
+            "fecha": "27/06/2026",
+            "hora_prog": "13:00",
             "hora_real": "",
-            "ciudad": "MAZAMARI",
-            "vuelo": "4A4096",
-            "aerolinea": "ATSA Aero Transporte",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "26/06/2026",
-            "hora_prog": "14:10",
-            "hora_real": "",
-            "ciudad": "HUANUCO",
-            "vuelo": "2I4223",
-            "aerolinea": "Star Peru",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A043",
+            "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         }
     ]

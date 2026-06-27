@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "26/06/2026 23:50:52",
-    "conteo": 628,
+    "ultima_sincronizacion": "27/06/2026 00:00:54",
+    "conteo": 629,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -6280,6 +6280,16 @@
             "ciudad": "HUANUCO",
             "vuelo": "2I4223",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/06/2026",
+            "hora_prog": "13:00",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A043",
+            "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         }
     ]
