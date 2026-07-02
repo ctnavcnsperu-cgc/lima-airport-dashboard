@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "02/07/2026 17:20:58",
-    "conteo": 17,
+    "ultima_sincronizacion": "02/07/2026 17:31:04",
+    "conteo": 18,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -169,6 +169,16 @@
             "hora_real": "",
             "ciudad": "IQUITOS",
             "vuelo": "LA2243",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "02/07/2026",
+            "hora_prog": "18:30",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "LA2091",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
