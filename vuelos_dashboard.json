@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "02/07/2026 16:10:50",
-    "conteo": 16,
+    "ultima_sincronizacion": "02/07/2026 16:21:25",
+    "conteo": 17,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -159,6 +159,16 @@
             "hora_real": "",
             "ciudad": "TRUJILLO",
             "vuelo": "LA2136",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "02/07/2026",
+            "hora_prog": "19:40",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "LA2243",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
