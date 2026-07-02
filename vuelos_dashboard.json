@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "02/07/2026 07:41:07",
-    "conteo": 12,
+    "ultima_sincronizacion": "02/07/2026 07:51:08",
+    "conteo": 14,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -120,6 +120,26 @@
             "ciudad": "CHICLAYO",
             "vuelo": "2I2226",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "02/07/2026",
+            "hora_prog": "11:40",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2111",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "02/07/2026",
+            "hora_prog": "15:40",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2110",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
