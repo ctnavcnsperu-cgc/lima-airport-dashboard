@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "03/07/2026 12:21:10",
-    "conteo": 679,
+    "ultima_sincronizacion": "03/07/2026 12:31:13",
+    "conteo": 681,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -6790,6 +6790,26 @@
             "ciudad": "TARAPOTO",
             "vuelo": "2I3144",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/07/2026",
+            "hora_prog": "11:20",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25025",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/07/2026",
+            "hora_prog": "15:15",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25026",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
