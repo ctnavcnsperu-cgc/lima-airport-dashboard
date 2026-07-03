@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "03/07/2026 16:21:05",
-    "conteo": 11,
+    "ultima_sincronizacion": "03/07/2026 16:31:08",
+    "conteo": 12,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -110,6 +110,16 @@
             "ciudad": "CUSCO",
             "vuelo": "JA7026",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/07/2026",
+            "hora_prog": "16:00",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "4A2088",
+            "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
     ]
