@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "04/07/2026 15:11:03",
-    "conteo": 10,
+    "ultima_sincronizacion": "04/07/2026 15:21:03",
+    "conteo": 12,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -99,6 +99,26 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2109",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "04/07/2026",
+            "hora_prog": "17:05",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2147",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "04/07/2026",
+            "hora_prog": "21:00",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2148",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
