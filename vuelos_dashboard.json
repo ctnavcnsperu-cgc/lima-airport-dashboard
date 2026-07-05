@@ -1,5 +1,16 @@
 {
-    "ultima_sincronizacion": "05/07/2026 07:31:09",
-    "conteo": 0,
-    "vuelos": []
+    "ultima_sincronizacion": "05/07/2026 07:41:10",
+    "conteo": 1,
+    "vuelos": [
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "05/07/2026",
+            "hora_prog": "09:20",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "H25361",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        }
+    ]
 }
