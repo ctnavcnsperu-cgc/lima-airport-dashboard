@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "06/07/2026 11:11:12",
-    "conteo": 714,
+    "ultima_sincronizacion": "06/07/2026 11:21:39",
+    "conteo": 716,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -7139,6 +7139,26 @@
             "hora_real": "",
             "ciudad": "MAZAMARI",
             "vuelo": "4A4095",
+            "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "06/07/2026",
+            "hora_prog": "11:00",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A065",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "06/07/2026",
+            "hora_prog": "11:50",
+            "hora_real": "",
+            "ciudad": "MAZAMARI",
+            "vuelo": "4A4096",
             "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
