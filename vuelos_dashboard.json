@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "06/07/2026 14:35:46",
-    "conteo": 13,
+    "ultima_sincronizacion": "06/07/2026 14:41:16",
+    "conteo": 14,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -130,6 +130,16 @@
             "ciudad": "MAZAMARI",
             "vuelo": "4A4096",
             "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "06/07/2026",
+            "hora_prog": "16:25",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2078",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
