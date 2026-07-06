@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "06/07/2026 06:51:07",
-    "conteo": 713,
+    "ultima_sincronizacion": "06/07/2026 07:01:30",
+    "conteo": 714,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -7130,6 +7130,16 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2014",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "06/07/2026",
+            "hora_prog": "08:50",
+            "hora_real": "",
+            "ciudad": "MAZAMARI",
+            "vuelo": "4A4095",
+            "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
     ]
