@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "07/07/2026 06:11:13",
-    "conteo": 9,
+    "ultima_sincronizacion": "07/07/2026 06:21:18",
+    "conteo": 10,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -89,6 +89,16 @@
             "hora_real": "",
             "ciudad": "IQUITOS",
             "vuelo": "LA2230",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "07/07/2026",
+            "hora_prog": "07:19",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "LA2231",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
