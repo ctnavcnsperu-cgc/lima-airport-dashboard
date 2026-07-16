@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "15/07/2026 23:51:06",
-    "conteo": 57,
+    "ultima_sincronizacion": "16/07/2026 00:01:27",
+    "conteo": 63,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -569,6 +569,66 @@
             "hora_real": "",
             "ciudad": "CHICLAYO",
             "vuelo": "2I2228",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/07/2026",
+            "hora_prog": "07:15",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "2I3111",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/07/2026",
+            "hora_prog": "07:55",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3147",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/07/2026",
+            "hora_prog": "08:00",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A064",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/07/2026",
+            "hora_prog": "10:50",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3148",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/07/2026",
+            "hora_prog": "11:00",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A065",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/07/2026",
+            "hora_prog": "12:20",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3111",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
