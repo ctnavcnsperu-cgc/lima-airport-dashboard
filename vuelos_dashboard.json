@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/07/2026 12:30:57",
-    "conteo": 6,
+    "ultima_sincronizacion": "17/07/2026 12:40:59",
+    "conteo": 7,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -59,6 +59,16 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2061",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/07/2026",
+            "hora_prog": "15:15",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2062",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
