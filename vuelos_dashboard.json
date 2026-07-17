@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/07/2026 09:21:02",
-    "conteo": 5,
+    "ultima_sincronizacion": "17/07/2026 09:31:06",
+    "conteo": 6,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -50,6 +50,16 @@
             "ciudad": "IQUITOS",
             "vuelo": "2I3131",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/07/2026",
+            "hora_prog": "11:40",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2061",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
