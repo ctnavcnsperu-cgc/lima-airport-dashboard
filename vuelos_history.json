@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "18/07/2026 06:00:56",
-    "conteo": 78,
+    "ultima_sincronizacion": "18/07/2026 06:10:51",
+    "conteo": 79,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -780,6 +780,16 @@
             "ciudad": "CHICLAYO",
             "vuelo": "2I2226",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "18/07/2026",
+            "hora_prog": "10:45",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2075",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
