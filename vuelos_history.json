@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "22/07/2026 20:00:59",
-    "conteo": 100,
+    "ultima_sincronizacion": "22/07/2026 20:10:51",
+    "conteo": 101,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1000,6 +1000,16 @@
             "ciudad": "TRUJILLO",
             "vuelo": "H25289",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "22/07/2026",
+            "hora_prog": "23:00",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2012",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
