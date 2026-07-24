@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/07/2026 18:01:02",
-    "conteo": 113,
+    "ultima_sincronizacion": "24/07/2026 18:10:47",
+    "conteo": 114,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1129,6 +1129,16 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2277",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/07/2026",
+            "hora_prog": "16:30",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2276",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
