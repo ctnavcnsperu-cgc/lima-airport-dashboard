@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/07/2026 17:21:07",
-    "conteo": 112,
+    "ultima_sincronizacion": "24/07/2026 17:30:54",
+    "conteo": 113,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1120,6 +1120,16 @@
             "ciudad": "PIA",
             "vuelo": "S4A035",
             "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/07/2026",
+            "hora_prog": "20:25",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2277",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
