@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "25/07/2026 06:01:00",
-    "conteo": 115,
+    "ultima_sincronizacion": "25/07/2026 06:11:09",
+    "conteo": 117,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1149,6 +1149,26 @@
             "hora_real": "",
             "ciudad": "CHICLAYO",
             "vuelo": "LA2214",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "25/07/2026",
+            "hora_prog": "08:40",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2013",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "25/07/2026",
+            "hora_prog": "12:15",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2014",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
