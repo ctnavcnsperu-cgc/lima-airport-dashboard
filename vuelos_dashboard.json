@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "25/07/2026 17:50:53",
-    "conteo": 4,
+    "ultima_sincronizacion": "25/07/2026 18:01:15",
+    "conteo": 5,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -40,6 +40,16 @@
             "ciudad": "CUSCO",
             "vuelo": "JA7018",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "25/07/2026",
+            "hora_prog": "18:47",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2211",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
