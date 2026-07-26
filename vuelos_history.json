@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "26/07/2026 18:10:45",
-    "conteo": 126,
+    "ultima_sincronizacion": "26/07/2026 18:20:48",
+    "conteo": 127,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1259,6 +1259,16 @@
             "hora_real": "",
             "ciudad": "CAJAMARCA",
             "vuelo": "LA2297",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "26/07/2026",
+            "hora_prog": "18:25",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "LA2296",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
