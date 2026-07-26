@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "25/07/2026 23:51:24",
-    "conteo": 123,
+    "ultima_sincronizacion": "26/07/2026 00:00:59",
+    "conteo": 125,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1230,6 +1230,26 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2049",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "26/07/2026",
+            "hora_prog": "07:15",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2123",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "26/07/2026",
+            "hora_prog": "10:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2124",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
