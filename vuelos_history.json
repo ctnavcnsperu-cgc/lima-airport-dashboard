@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "26/07/2026 16:21:03",
-    "conteo": 125,
+    "ultima_sincronizacion": "26/07/2026 16:30:52",
+    "conteo": 126,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1250,6 +1250,16 @@
             "ciudad": "CHICLAYO",
             "vuelo": "2I2124",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "26/07/2026",
+            "hora_prog": "15:15",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "LA2297",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
