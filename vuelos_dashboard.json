@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "27/07/2026 06:01:10",
-    "conteo": 7,
+    "ultima_sincronizacion": "27/07/2026 06:11:00",
+    "conteo": 8,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -70,6 +70,16 @@
             "ciudad": "PUCALLPA",
             "vuelo": "2I3234",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "27/07/2026",
+            "hora_prog": "09:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2123",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
