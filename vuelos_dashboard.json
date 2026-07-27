@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "27/07/2026 09:10:49",
-    "conteo": 11,
+    "ultima_sincronizacion": "27/07/2026 09:20:46",
+    "conteo": 13,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -110,6 +110,26 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2076",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "27/07/2026",
+            "hora_prog": "11:30",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A066",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/07/2026",
+            "hora_prog": "14:05",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A067",
+            "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         }
     ]
