@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "27/07/2026 06:20:56",
-    "conteo": 135,
+    "ultima_sincronizacion": "27/07/2026 06:31:04",
+    "conteo": 136,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1349,6 +1349,16 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2123",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/07/2026",
+            "hora_prog": "13:10",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2124",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
