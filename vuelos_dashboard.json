@@ -1,10 +1,10 @@
 {
-    "ultima_sincronizacion": "26/07/2026 23:50:46",
-    "conteo": 4,
+    "ultima_sincronizacion": "27/07/2026 00:01:20",
+    "conteo": 7,
     "vuelos": [
         {
             "tipo": "SALIDAS",
-            "fecha": "26/07/2026",
+            "fecha": "27/07/2026",
             "hora_prog": "07:15",
             "hora_real": "",
             "ciudad": "CHICLAYO",
@@ -13,8 +13,28 @@
             "estado": "CANCELADO"
         },
         {
+            "tipo": "SALIDAS",
+            "fecha": "27/07/2026",
+            "hora_prog": "07:55",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3115",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "27/07/2026",
+            "hora_prog": "18:15",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3233",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
             "tipo": "LLEGADAS",
-            "fecha": "26/07/2026",
+            "fecha": "27/07/2026",
             "hora_prog": "10:20",
             "hora_real": "",
             "ciudad": "CHICLAYO",
@@ -23,23 +43,33 @@
             "estado": "CANCELADO"
         },
         {
-            "tipo": "SALIDAS",
-            "fecha": "26/07/2026",
-            "hora_prog": "15:15",
+            "tipo": "LLEGADAS",
+            "fecha": "27/07/2026",
+            "hora_prog": "11:50",
             "hora_real": "",
-            "ciudad": "CAJAMARCA",
-            "vuelo": "LA2297",
-            "aerolinea": "LATAM Airlines",
+            "ciudad": "MAZAMARI",
+            "vuelo": "4A4096",
+            "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "26/07/2026",
-            "hora_prog": "18:25",
+            "fecha": "27/07/2026",
+            "hora_prog": "14:00",
             "hora_real": "",
-            "ciudad": "CAJAMARCA",
-            "vuelo": "LA2296",
-            "aerolinea": "LATAM Airlines",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3116",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/07/2026",
+            "hora_prog": "20:55",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3234",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
