@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "29/07/2026 17:21:04",
-    "conteo": 159,
+    "ultima_sincronizacion": "29/07/2026 17:30:55",
+    "conteo": 160,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1590,6 +1590,16 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2276",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "29/07/2026",
+            "hora_prog": "23:40",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7036",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
