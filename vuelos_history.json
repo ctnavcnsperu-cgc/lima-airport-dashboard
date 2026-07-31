@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "31/07/2026 06:10:58",
-    "conteo": 172,
+    "ultima_sincronizacion": "31/07/2026 06:21:10",
+    "conteo": 174,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1719,6 +1719,26 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "JA7016",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "31/07/2026",
+            "hora_prog": "19:00",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7004",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "31/07/2026",
+            "hora_prog": "19:05",
+            "hora_real": "",
+            "ciudad": "PIURA",
+            "vuelo": "JA7221",
             "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
