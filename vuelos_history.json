@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "31/07/2026 09:21:07",
-    "conteo": 174,
+    "ultima_sincronizacion": "31/07/2026 09:30:56",
+    "conteo": 175,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1739,6 +1739,16 @@
             "hora_real": "",
             "ciudad": "PIURA",
             "vuelo": "JA7221",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "31/07/2026",
+            "hora_prog": "10:45",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7037",
             "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
