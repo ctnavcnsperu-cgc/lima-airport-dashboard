@@ -1,5 +1,26 @@
 {
-    "ultima_sincronizacion": "01/08/2026 03:40:54",
-    "conteo": 0,
-    "vuelos": []
+    "ultima_sincronizacion": "01/08/2026 03:50:58",
+    "conteo": 2,
+    "vuelos": [
+        {
+            "tipo": "SALIDAS",
+            "fecha": "01/08/2026",
+            "hora_prog": "06:45",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2203",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "01/08/2026",
+            "hora_prog": "10:25",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2204",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        }
+    ]
 }
