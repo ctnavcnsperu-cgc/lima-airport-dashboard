@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "01/08/2026 23:50:55",
-    "conteo": 179,
+    "ultima_sincronizacion": "02/08/2026 00:01:03",
+    "conteo": 181,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1790,6 +1790,26 @@
             "ciudad": "AREQUIPA",
             "vuelo": "LA2204",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "02/08/2026",
+            "hora_prog": "12:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2227",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "02/08/2026",
+            "hora_prog": "15:25",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2228",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
