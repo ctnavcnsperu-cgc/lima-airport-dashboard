@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "02/08/2026 12:10:58",
-    "conteo": 184,
+    "ultima_sincronizacion": "02/08/2026 12:20:56",
+    "conteo": 185,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1840,6 +1840,16 @@
             "ciudad": "CUSCO",
             "vuelo": "JA7026",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "02/08/2026",
+            "hora_prog": "21:15",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2151",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
