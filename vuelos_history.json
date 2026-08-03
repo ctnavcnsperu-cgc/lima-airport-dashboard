@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "02/08/2026 23:50:43",
-    "conteo": 185,
+    "ultima_sincronizacion": "03/08/2026 00:01:11",
+    "conteo": 198,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1850,6 +1850,136 @@
             "ciudad": "TRUJILLO",
             "vuelo": "LA2151",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/08/2026",
+            "hora_prog": "05:15",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7027",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/08/2026",
+            "hora_prog": "06:00",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7001",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/08/2026",
+            "hora_prog": "07:00",
+            "hora_real": "",
+            "ciudad": "PIA",
+            "vuelo": "S4A024",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/08/2026",
+            "hora_prog": "08:00",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A064",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/08/2026",
+            "hora_prog": "12:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2227",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/08/2026",
+            "hora_prog": "17:50",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "H25119",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/08/2026",
+            "hora_prog": "08:55",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7026",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/08/2026",
+            "hora_prog": "09:55",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7000",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/08/2026",
+            "hora_prog": "11:00",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A065",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/08/2026",
+            "hora_prog": "11:50",
+            "hora_real": "",
+            "ciudad": "MAZAMARI",
+            "vuelo": "4A4096",
+            "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/08/2026",
+            "hora_prog": "15:25",
+            "hora_real": "",
+            "ciudad": "PIA",
+            "vuelo": "S4A025",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/08/2026",
+            "hora_prog": "15:25",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2228",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/08/2026",
+            "hora_prog": "22:30",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA6006",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
