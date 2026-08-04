@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "04/08/2026 00:10:57",
-    "conteo": 207,
+    "ultima_sincronizacion": "04/08/2026 00:20:44",
+    "conteo": 208,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2070,6 +2070,16 @@
             "ciudad": "CHICLAYO",
             "vuelo": "2I2226",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "04/08/2026",
+            "hora_prog": "10:55",
+            "hora_real": "",
+            "ciudad": "PIURA",
+            "vuelo": "LA2015",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
