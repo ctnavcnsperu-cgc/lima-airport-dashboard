@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "04/08/2026 07:20:55",
-    "conteo": 9,
+    "ultima_sincronizacion": "04/08/2026 07:31:02",
+    "conteo": 11,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -90,6 +90,26 @@
             "ciudad": "PIURA",
             "vuelo": "LA2015",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "04/08/2026",
+            "hora_prog": "15:45",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7029",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "04/08/2026",
+            "hora_prog": "19:25",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7028",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
