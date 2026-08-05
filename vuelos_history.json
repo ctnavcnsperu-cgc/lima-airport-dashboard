@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "05/08/2026 14:40:44",
-    "conteo": 219,
+    "ultima_sincronizacion": "05/08/2026 14:50:54",
+    "conteo": 220,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2189,6 +2189,16 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2267",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "05/08/2026",
+            "hora_prog": "17:10",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2208",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
