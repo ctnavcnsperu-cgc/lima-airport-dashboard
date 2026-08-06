@@ -1,125 +1,45 @@
 {
-    "ultima_sincronizacion": "05/08/2026 23:50:51",
-    "conteo": 12,
+    "ultima_sincronizacion": "06/08/2026 00:01:04",
+    "conteo": 4,
     "vuelos": [
         {
             "tipo": "SALIDAS",
-            "fecha": "05/08/2026",
-            "hora_prog": "10:10",
+            "fecha": "06/08/2026",
+            "hora_prog": "08:00",
             "hora_real": "",
             "ciudad": "MALVINA",
-            "vuelo": "S4A066",
+            "vuelo": "S4A064",
             "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "05/08/2026",
-            "hora_prog": "11:45",
-            "hora_real": "",
-            "ciudad": "PUCALLPA",
-            "vuelo": "2I3131",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "05/08/2026",
-            "hora_prog": "12:20",
+            "fecha": "06/08/2026",
+            "hora_prog": "18:55",
             "hora_real": "",
             "ciudad": "CHICLAYO",
-            "vuelo": "2I2227",
+            "vuelo": "2I2225",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
-            "tipo": "SALIDAS",
-            "fecha": "05/08/2026",
-            "hora_prog": "15:25",
+            "tipo": "LLEGADAS",
+            "fecha": "06/08/2026",
+            "hora_prog": "11:00",
             "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "H25015",
-            "aerolinea": "Sky Airline",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A065",
+            "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "05/08/2026",
-            "hora_prog": "15:25",
+            "fecha": "06/08/2026",
+            "hora_prog": "22:00",
             "hora_real": "",
             "ciudad": "CHICLAYO",
-            "vuelo": "2I2228",
+            "vuelo": "2I2226",
             "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "05/08/2026",
-            "hora_prog": "16:50",
-            "hora_real": "",
-            "ciudad": "IQUITOS",
-            "vuelo": "2I3131",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "05/08/2026",
-            "hora_prog": "19:20",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "H25016",
-            "aerolinea": "Sky Airline",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "05/08/2026",
-            "hora_prog": "11:10",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2266",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "05/08/2026",
-            "hora_prog": "14:45",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2267",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "05/08/2026",
-            "hora_prog": "17:10",
-            "hora_real": "",
-            "ciudad": "JULIACA",
-            "vuelo": "LA2208",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "05/08/2026",
-            "hora_prog": "20:35",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2999",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "05/08/2026",
-            "hora_prog": "19:50",
-            "hora_real": "",
-            "ciudad": "TRUJILLO",
-            "vuelo": "LA2151",
-            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
