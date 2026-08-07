@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "06/08/2026 23:50:52",
-    "conteo": 232,
+    "ultima_sincronizacion": "07/08/2026 00:01:28",
+    "conteo": 242,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2320,6 +2320,106 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2277",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "07/08/2026",
+            "hora_prog": "08:40",
+            "hora_real": "",
+            "ciudad": "MAZAMARI",
+            "vuelo": "4A4095",
+            "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "07/08/2026",
+            "hora_prog": "09:55",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7017",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "07/08/2026",
+            "hora_prog": "10:10",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A066",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "07/08/2026",
+            "hora_prog": "11:25",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2227",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "07/08/2026",
+            "hora_prog": "15:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7007",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "07/08/2026",
+            "hora_prog": "11:50",
+            "hora_real": "",
+            "ciudad": "MAZAMARI",
+            "vuelo": "4A4096",
+            "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "07/08/2026",
+            "hora_prog": "13:00",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A067",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "07/08/2026",
+            "hora_prog": "13:35",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7016",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "07/08/2026",
+            "hora_prog": "14:30",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2228",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "07/08/2026",
+            "hora_prog": "19:00",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7006",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
