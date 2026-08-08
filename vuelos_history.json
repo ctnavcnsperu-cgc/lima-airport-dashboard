@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "07/08/2026 23:50:50",
-    "conteo": 243,
+    "ultima_sincronizacion": "08/08/2026 00:01:32",
+    "conteo": 250,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2430,6 +2430,76 @@
             "ciudad": "TRUJILLO",
             "vuelo": "LA2151",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "08/08/2026",
+            "hora_prog": "04:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2280",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "08/08/2026",
+            "hora_prog": "15:05",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "JA7256",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "08/08/2026",
+            "hora_prog": "07:40",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2281",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "08/08/2026",
+            "hora_prog": "13:45",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA1013",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "08/08/2026",
+            "hora_prog": "13:50",
+            "hora_real": "",
+            "ciudad": "CHACHAPOYAS",
+            "vuelo": "4A4004",
+            "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "08/08/2026",
+            "hora_prog": "18:35",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "JA7257",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "08/08/2026",
+            "hora_prog": "19:00",
+            "hora_real": "",
+            "ciudad": "PIURA",
+            "vuelo": "JA7225",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
