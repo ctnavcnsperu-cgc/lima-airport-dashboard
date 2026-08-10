@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "10/08/2026 10:50:58",
-    "conteo": 268,
+    "ultima_sincronizacion": "10/08/2026 11:01:09",
+    "conteo": 270,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2680,6 +2680,26 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2531",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "10/08/2026",
+            "hora_prog": "08:40",
+            "hora_real": "",
+            "ciudad": "CHACHAPOYAS",
+            "vuelo": "4A4001",
+            "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "10/08/2026",
+            "hora_prog": "12:35",
+            "hora_real": "",
+            "ciudad": "CHACHAPOYAS",
+            "vuelo": "4A4002",
+            "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
     ]
