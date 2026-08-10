@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "10/08/2026 15:01:14",
-    "conteo": 9,
+    "ultima_sincronizacion": "10/08/2026 15:10:53",
+    "conteo": 10,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -90,6 +90,16 @@
             "ciudad": "CHACHAPOYAS",
             "vuelo": "4A4002",
             "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "10/08/2026",
+            "hora_prog": "15:05",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2113",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
