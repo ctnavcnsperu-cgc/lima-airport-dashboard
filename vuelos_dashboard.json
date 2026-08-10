@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "10/08/2026 15:10:53",
-    "conteo": 10,
+    "ultima_sincronizacion": "10/08/2026 15:20:56",
+    "conteo": 11,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -99,6 +99,16 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2113",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "10/08/2026",
+            "hora_prog": "09:00",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2010",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
