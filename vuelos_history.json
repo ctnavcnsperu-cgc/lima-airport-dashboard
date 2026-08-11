@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "11/08/2026 12:50:50",
-    "conteo": 289,
+    "ultima_sincronizacion": "11/08/2026 13:00:55",
+    "conteo": 290,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2890,6 +2890,16 @@
             "ciudad": "TRUJILLO",
             "vuelo": "LA2228",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "11/08/2026",
+            "hora_prog": "18:55",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "---",
+            "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         }
     ]
