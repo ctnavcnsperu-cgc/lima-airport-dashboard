@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "11/08/2026 07:21:02",
-    "conteo": 285,
+    "ultima_sincronizacion": "11/08/2026 07:30:58",
+    "conteo": 286,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2850,6 +2850,16 @@
             "ciudad": "ANDAHUAYLAS",
             "vuelo": "4A4072",
             "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "11/08/2026",
+            "hora_prog": "09:10",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2007",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
