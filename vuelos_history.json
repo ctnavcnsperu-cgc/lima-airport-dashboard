@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "11/08/2026 13:00:55",
-    "conteo": 290,
+    "ultima_sincronizacion": "11/08/2026 13:10:49",
+    "conteo": 291,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2894,6 +2894,16 @@
         },
         {
             "tipo": "LLEGADAS",
+            "fecha": "11/08/2026",
+            "hora_prog": "18:55",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "---",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
             "fecha": "11/08/2026",
             "hora_prog": "18:55",
             "hora_real": "",
