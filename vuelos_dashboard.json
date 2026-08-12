@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "12/08/2026 06:40:57",
-    "conteo": 5,
+    "ultima_sincronizacion": "12/08/2026 06:50:55",
+    "conteo": 6,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -50,6 +50,16 @@
             "ciudad": "CHICLAYO",
             "vuelo": "2I2123",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "12/08/2026",
+            "hora_prog": "06:30",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2167",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
