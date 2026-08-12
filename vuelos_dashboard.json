@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "12/08/2026 15:31:04",
-    "conteo": 12,
+    "ultima_sincronizacion": "12/08/2026 15:40:50",
+    "conteo": 16,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -120,6 +120,46 @@
             "ciudad": "CUSCO",
             "vuelo": "JA7044",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "12/08/2026",
+            "hora_prog": "18:15",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2223",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "12/08/2026",
+            "hora_prog": "18:55",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "LA2093",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "12/08/2026",
+            "hora_prog": "22:55",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2224",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "12/08/2026",
+            "hora_prog": "23:25",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "LA2094",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
