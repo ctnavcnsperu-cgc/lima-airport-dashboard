@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "12/08/2026 10:30:57",
-    "conteo": 301,
+    "ultima_sincronizacion": "12/08/2026 10:40:59",
+    "conteo": 302,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3009,6 +3009,16 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2332",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "12/08/2026",
+            "hora_prog": "11:45",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2061",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
