@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "13/08/2026 07:31:08",
-    "conteo": 323,
+    "ultima_sincronizacion": "13/08/2026 07:41:02",
+    "conteo": 325,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3230,6 +3230,26 @@
             "ciudad": "AYACUCHO",
             "vuelo": "H25207",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "13/08/2026",
+            "hora_prog": "10:55",
+            "hora_real": "",
+            "ciudad": "PIURA",
+            "vuelo": "LA2015",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "13/08/2026",
+            "hora_prog": "11:10",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7017",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
