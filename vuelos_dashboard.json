@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/08/2026 06:20:57",
-    "conteo": 12,
+    "ultima_sincronizacion": "14/08/2026 06:30:58",
+    "conteo": 15,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -120,6 +120,36 @@
             "ciudad": "CUSCO",
             "vuelo": "JA7024",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "09:10",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2007",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "09:50",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2077",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "10:45",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2075",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
