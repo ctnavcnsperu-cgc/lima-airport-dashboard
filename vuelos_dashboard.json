@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/08/2026 05:50:52",
-    "conteo": 10,
+    "ultima_sincronizacion": "14/08/2026 06:01:03",
+    "conteo": 12,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -100,6 +100,26 @@
             "ciudad": "CUSCO",
             "vuelo": "H25020",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "06:25",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7025",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "10:05",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7024",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
