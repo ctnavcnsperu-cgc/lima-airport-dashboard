@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/08/2026 18:30:56",
-    "conteo": 370,
+    "ultima_sincronizacion": "14/08/2026 18:41:13",
+    "conteo": 371,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3699,6 +3699,16 @@
             "hora_real": "",
             "ciudad": "TACNA",
             "vuelo": "H25190",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "19:10",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "H25191",
             "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
