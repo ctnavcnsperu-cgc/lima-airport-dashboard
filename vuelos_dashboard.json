@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/08/2026 15:20:47",
-    "conteo": 30,
+    "ultima_sincronizacion": "14/08/2026 15:30:43",
+    "conteo": 31,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -299,6 +299,16 @@
             "hora_real": "",
             "ciudad": "ANTA - HUARAZ",
             "vuelo": "LA2031",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "15:45",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2211",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
