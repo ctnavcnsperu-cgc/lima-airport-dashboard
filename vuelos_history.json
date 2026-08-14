@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/08/2026 06:30:58",
-    "conteo": 349,
+    "ultima_sincronizacion": "14/08/2026 06:41:28",
+    "conteo": 352,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3489,6 +3489,36 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2075",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "09:00",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2010",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "12:55",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2008",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "14:20",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2076",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
