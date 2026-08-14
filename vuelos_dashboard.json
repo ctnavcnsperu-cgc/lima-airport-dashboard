@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/08/2026 09:11:03",
-    "conteo": 27,
+    "ultima_sincronizacion": "14/08/2026 09:20:54",
+    "conteo": 28,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -270,6 +270,16 @@
             "ciudad": "CUSCO",
             "vuelo": "JA7042",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "06:30",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2167",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
