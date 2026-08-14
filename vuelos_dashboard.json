@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/08/2026 14:40:52",
-    "conteo": 28,
+    "ultima_sincronizacion": "14/08/2026 14:50:47",
+    "conteo": 30,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -279,6 +279,26 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2167",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "11:00",
+            "hora_real": "",
+            "ciudad": "ANTA - HUARAZ",
+            "vuelo": "LA2030",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "13:45",
+            "hora_real": "",
+            "ciudad": "ANTA - HUARAZ",
+            "vuelo": "LA2031",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
