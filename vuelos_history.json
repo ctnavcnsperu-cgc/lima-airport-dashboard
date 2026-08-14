@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/08/2026 06:41:28",
-    "conteo": 352,
+    "ultima_sincronizacion": "14/08/2026 06:50:56",
+    "conteo": 353,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3520,6 +3520,16 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2076",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "10:40",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7003",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
