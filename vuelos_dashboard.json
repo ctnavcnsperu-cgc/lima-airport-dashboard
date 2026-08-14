@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/08/2026 07:41:03",
-    "conteo": 20,
+    "ultima_sincronizacion": "14/08/2026 07:50:51",
+    "conteo": 25,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -200,6 +200,56 @@
             "ciudad": "TARAPOTO",
             "vuelo": "H25402",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "05:40",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2232",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "08:10",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2130",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "09:00",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "H25403",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "09:30",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2233",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "11:40",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2129",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
