@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/08/2026 18:00:46",
-    "conteo": 35,
+    "ultima_sincronizacion": "14/08/2026 18:10:58",
+    "conteo": 36,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -350,6 +350,16 @@
             "ciudad": "TACNA",
             "vuelo": "LA2068",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "18:45",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "H25190",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
