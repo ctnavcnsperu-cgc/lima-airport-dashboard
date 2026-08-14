@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/08/2026 17:00:51",
-    "conteo": 33,
+    "ultima_sincronizacion": "14/08/2026 17:10:57",
+    "conteo": 35,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -329,6 +329,26 @@
             "hora_real": "",
             "ciudad": "TRUJILLO",
             "vuelo": "LA2151",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "19:02",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2067",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "18:15",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2068",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
