@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/08/2026 07:50:51",
-    "conteo": 359,
+    "ultima_sincronizacion": "14/08/2026 08:01:08",
+    "conteo": 361,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3590,6 +3590,26 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2129",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "15:15",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7043",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "18:55",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7042",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
