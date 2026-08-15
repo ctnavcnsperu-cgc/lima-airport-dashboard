@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "15/08/2026 16:11:00",
-    "conteo": 384,
+    "ultima_sincronizacion": "15/08/2026 16:20:37",
+    "conteo": 385,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3839,6 +3839,16 @@
             "hora_real": "",
             "ciudad": "PIURA",
             "vuelo": "LA2126",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "15/08/2026",
+            "hora_prog": "15:10",
+            "hora_real": "",
+            "ciudad": "AYACUCHO",
+            "vuelo": "LA2186",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
