@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/08/2026 21:20:43",
-    "conteo": 37,
+    "ultima_sincronizacion": "14/08/2026 21:31:01",
+    "conteo": 39,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -370,6 +370,26 @@
             "ciudad": "TACNA",
             "vuelo": "H25191",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "23:30",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2198",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/08/2026",
+            "hora_prog": "23:10",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2199",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
