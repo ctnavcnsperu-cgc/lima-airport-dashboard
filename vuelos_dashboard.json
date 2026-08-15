@@ -1,395 +1,55 @@
 {
-    "ultima_sincronizacion": "14/08/2026 23:50:48",
-    "conteo": 39,
+    "ultima_sincronizacion": "15/08/2026 00:01:03",
+    "conteo": 5,
     "vuelos": [
         {
             "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "07:15",
+            "fecha": "15/08/2026",
+            "hora_prog": "04:50",
             "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2123",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "08:30",
-            "hora_real": "",
-            "ciudad": "AREQUIPA",
-            "vuelo": "LA2119",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "11:25",
-            "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2227",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "11:45",
-            "hora_real": "",
-            "ciudad": "PUCALLPA",
-            "vuelo": "2I3131",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "18:20",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "H25019",
-            "aerolinea": "Sky Airline",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "10:20",
-            "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2124",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "12:35",
-            "hora_real": "",
-            "ciudad": "AREQUIPA",
-            "vuelo": "LA2118",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "14:30",
-            "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2228",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "16:50",
-            "hora_real": "",
-            "ciudad": "IQUITOS",
-            "vuelo": "2I3131",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "22:15",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "H25020",
-            "aerolinea": "Sky Airline",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "06:25",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "JA7025",
-            "aerolinea": "JetSmart",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "10:05",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "JA7024",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "JA7318",
             "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
+            "fecha": "15/08/2026",
+            "hora_prog": "07:20",
+            "hora_real": "",
+            "ciudad": "PIURA",
+            "vuelo": "LA2125",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "15/08/2026",
             "hora_prog": "09:10",
             "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2007",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "09:50",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2077",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "10:45",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2075",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "09:00",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2010",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "12:55",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2008",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "14:20",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2076",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "10:40",
-            "hora_real": "",
-            "ciudad": "AREQUIPA",
-            "vuelo": "JA7003",
+            "ciudad": "TARAPOTO",
+            "vuelo": "JA7258",
             "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         },
         {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "08:04",
-            "hora_real": "",
-            "ciudad": "TARAPOTO",
-            "vuelo": "H25402",
-            "aerolinea": "Sky Airline",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "05:40",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2232",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
+            "tipo": "LLEGADAS",
+            "fecha": "15/08/2026",
             "hora_prog": "08:10",
             "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2130",
-            "aerolinea": "LATAM Airlines",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "JA7319",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "09:00",
+            "fecha": "15/08/2026",
+            "hora_prog": "12:40",
             "hora_real": "",
             "ciudad": "TARAPOTO",
-            "vuelo": "H25403",
-            "aerolinea": "Sky Airline",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "09:30",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2233",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "11:40",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2129",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "15:15",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "JA7043",
+            "vuelo": "JA7259",
             "aerolinea": "JetSmart",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "18:55",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "JA7042",
-            "aerolinea": "JetSmart",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "06:30",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2167",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "11:00",
-            "hora_real": "",
-            "ciudad": "ANTA - HUARAZ",
-            "vuelo": "LA2030",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "13:45",
-            "hora_real": "",
-            "ciudad": "ANTA - HUARAZ",
-            "vuelo": "LA2031",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "15:45",
-            "hora_real": "",
-            "ciudad": "JULIACA",
-            "vuelo": "LA2211",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "19:45",
-            "hora_real": "",
-            "ciudad": "JULIACA",
-            "vuelo": "LA2212",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "22:00",
-            "hora_real": "",
-            "ciudad": "TRUJILLO",
-            "vuelo": "LA2151",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "19:02",
-            "hora_real": "",
-            "ciudad": "TACNA",
-            "vuelo": "LA2067",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "18:15",
-            "hora_real": "",
-            "ciudad": "TACNA",
-            "vuelo": "LA2068",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "18:45",
-            "hora_real": "",
-            "ciudad": "TACNA",
-            "vuelo": "H25190",
-            "aerolinea": "Sky Airline",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "19:10",
-            "hora_real": "",
-            "ciudad": "TACNA",
-            "vuelo": "H25191",
-            "aerolinea": "Sky Airline",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "23:30",
-            "hora_real": "",
-            "ciudad": "TACNA",
-            "vuelo": "LA2198",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "14/08/2026",
-            "hora_prog": "23:10",
-            "hora_real": "",
-            "ciudad": "TACNA",
-            "vuelo": "LA2199",
-            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
