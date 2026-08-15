@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "15/08/2026 00:10:52",
-    "conteo": 5,
+    "ultima_sincronizacion": "15/08/2026 00:20:59",
+    "conteo": 6,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -50,6 +50,16 @@
             "ciudad": "TARAPOTO",
             "vuelo": "JA7259",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "15/08/2026",
+            "hora_prog": "04:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2280",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
