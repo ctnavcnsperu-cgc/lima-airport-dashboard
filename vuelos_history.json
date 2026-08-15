@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "15/08/2026 04:20:48",
-    "conteo": 379,
+    "ultima_sincronizacion": "15/08/2026 04:31:11",
+    "conteo": 383,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3789,6 +3789,46 @@
             "hora_real": "",
             "ciudad": "CHICLAYO",
             "vuelo": "LA2280",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "15/08/2026",
+            "hora_prog": "09:35",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2274",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "15/08/2026",
+            "hora_prog": "14:25",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2135",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "15/08/2026",
+            "hora_prog": "13:05",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2275",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "15/08/2026",
+            "hora_prog": "17:30",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2136",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
