@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "16/08/2026 17:00:52",
-    "conteo": 403,
+    "ultima_sincronizacion": "16/08/2026 17:10:47",
+    "conteo": 405,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4029,6 +4029,26 @@
             "hora_real": "",
             "ciudad": "TACNA",
             "vuelo": "LA2168",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/08/2026",
+            "hora_prog": "18:50",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2198",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/08/2026",
+            "hora_prog": "23:10",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2199",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
