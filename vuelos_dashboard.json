@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/08/2026 11:50:46",
-    "conteo": 12,
+    "ultima_sincronizacion": "17/08/2026 12:00:52",
+    "conteo": 14,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -119,6 +119,26 @@
             "hora_real": "",
             "ciudad": "TACNA",
             "vuelo": "LA2072",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "14:26",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2331",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "13:40",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2332",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
