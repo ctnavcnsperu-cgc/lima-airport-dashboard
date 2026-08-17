@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/08/2026 12:10:56",
-    "conteo": 419,
+    "ultima_sincronizacion": "17/08/2026 12:21:00",
+    "conteo": 421,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4190,6 +4190,26 @@
             "ciudad": "AREQUIPA",
             "vuelo": "LA2332",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "13:01",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "H25103",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "14:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "H25104",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
