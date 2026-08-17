@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/08/2026 15:10:54",
-    "conteo": 446,
+    "ultima_sincronizacion": "17/08/2026 15:20:54",
+    "conteo": 447,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4459,6 +4459,16 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2110",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "17:50",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2056",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
