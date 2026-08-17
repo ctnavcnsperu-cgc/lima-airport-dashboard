@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/08/2026 10:40:50",
-    "conteo": 413,
+    "ultima_sincronizacion": "17/08/2026 10:50:48",
+    "conteo": 415,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4130,6 +4130,26 @@
             "ciudad": "TARAPOTO",
             "vuelo": "2I3244",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "09:40",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2489",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "10:30",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2071",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
