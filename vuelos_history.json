@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/08/2026 15:40:49",
-    "conteo": 447,
+    "ultima_sincronizacion": "17/08/2026 15:50:51",
+    "conteo": 449,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4469,6 +4469,26 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2056",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "20:50",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2216",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "20:55",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2114",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
