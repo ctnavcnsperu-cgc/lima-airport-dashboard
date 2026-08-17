@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/08/2026 18:40:45",
-    "conteo": 48,
+    "ultima_sincronizacion": "17/08/2026 18:50:42",
+    "conteo": 49,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -480,6 +480,16 @@
             "ciudad": "TACNA",
             "vuelo": "LA2199",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "19:40",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7009",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
