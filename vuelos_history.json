@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/08/2026 12:40:52",
-    "conteo": 428,
+    "ultima_sincronizacion": "17/08/2026 13:01:05",
+    "conteo": 430,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4225,6 +4225,16 @@
         {
             "tipo": "SALIDAS",
             "fecha": "17/08/2026",
+            "hora_prog": "14:40",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2109",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
             "hora_prog": "15:05",
             "hora_real": "",
             "ciudad": "AREQUIPA",
@@ -4280,6 +4290,16 @@
             "ciudad": "AREQUIPA",
             "vuelo": "H25104",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "14:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2108",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
