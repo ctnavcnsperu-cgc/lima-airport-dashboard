@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/08/2026 13:30:57",
-    "conteo": 25,
+    "ultima_sincronizacion": "17/08/2026 13:50:51",
+    "conteo": 29,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -250,6 +250,46 @@
             "ciudad": "AREQUIPA",
             "vuelo": "LA2108",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "08:20",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2245",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "14:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7007",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "15:00",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2111",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "18:10",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7006",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
