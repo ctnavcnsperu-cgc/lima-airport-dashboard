@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/08/2026 14:10:53",
-    "conteo": 435,
+    "ultima_sincronizacion": "17/08/2026 14:20:49",
+    "conteo": 437,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4349,6 +4349,26 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "H25117",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "13:45",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2067",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "14:35",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "H25190",
             "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
