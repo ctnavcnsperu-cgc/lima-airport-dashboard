@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/08/2026 14:40:40",
-    "conteo": 439,
+    "ultima_sincronizacion": "17/08/2026 14:50:51",
+    "conteo": 446,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4389,6 +4389,76 @@
             "hora_real": "",
             "ciudad": "TACNA",
             "vuelo": "LA2198",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "12:40",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2244",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "16:35",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2044",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "18:15",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2068",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "18:30",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "H25118",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "18:55",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2112",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "19:10",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "H25191",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "19:30",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2110",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
