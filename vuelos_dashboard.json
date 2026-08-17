@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/08/2026 12:30:46",
-    "conteo": 16,
+    "ultima_sincronizacion": "17/08/2026 12:40:52",
+    "conteo": 23,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -145,11 +145,81 @@
         {
             "tipo": "SALIDAS",
             "fecha": "17/08/2026",
+            "hora_prog": "12:45",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2043",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
             "hora_prog": "13:01",
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "H25103",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "13:55",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2055",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "15:05",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2113",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "16:00",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2330",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "17:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2115",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "18:35",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2117",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "19:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2326",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         },
         {
