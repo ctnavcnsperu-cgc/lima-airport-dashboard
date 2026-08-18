@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "18/08/2026 12:30:53",
-    "conteo": 477,
+    "ultima_sincronizacion": "18/08/2026 12:40:54",
+    "conteo": 479,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4770,6 +4770,26 @@
             "ciudad": "CUSCO",
             "vuelo": "JA7028",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "18/08/2026",
+            "hora_prog": "10:45",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2075",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/08/2026",
+            "hora_prog": "14:20",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2076",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
