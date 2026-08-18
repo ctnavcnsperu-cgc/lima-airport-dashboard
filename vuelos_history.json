@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "18/08/2026 10:40:52",
-    "conteo": 473,
+    "ultima_sincronizacion": "18/08/2026 10:50:54",
+    "conteo": 475,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4729,6 +4729,26 @@
             "hora_real": "",
             "ciudad": "IQUITOS",
             "vuelo": "LA2038",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "18/08/2026",
+            "hora_prog": "12:50",
+            "hora_real": "",
+            "ciudad": "PIURA",
+            "vuelo": "LA2308",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/08/2026",
+            "hora_prog": "16:55",
+            "hora_real": "",
+            "ciudad": "PIURA",
+            "vuelo": "LA2309",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
