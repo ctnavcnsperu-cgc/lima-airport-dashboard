@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "18/08/2026 07:21:00",
-    "conteo": 10,
+    "ultima_sincronizacion": "18/08/2026 07:31:03",
+    "conteo": 12,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -99,6 +99,26 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2011",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/08/2026",
+            "hora_prog": "08:20",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2343",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/08/2026",
+            "hora_prog": "09:00",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2010",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
