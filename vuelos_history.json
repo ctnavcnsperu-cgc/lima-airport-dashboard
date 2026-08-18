@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "18/08/2026 14:40:49",
-    "conteo": 483,
+    "ultima_sincronizacion": "18/08/2026 14:50:51",
+    "conteo": 484,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4829,6 +4829,16 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2078",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "18/08/2026",
+            "hora_prog": "17:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2213",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
