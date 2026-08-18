@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "18/08/2026 08:10:58",
-    "conteo": 471,
+    "ultima_sincronizacion": "18/08/2026 08:20:53",
+    "conteo": 473,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4709,6 +4709,26 @@
             "hora_real": "",
             "ciudad": "TRUJILLO",
             "vuelo": "LA2228",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "18/08/2026",
+            "hora_prog": "11:35",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "LA2019",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/08/2026",
+            "hora_prog": "15:55",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "LA2038",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
