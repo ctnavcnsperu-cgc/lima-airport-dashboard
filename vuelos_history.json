@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/08/2026 19:40:49",
-    "conteo": 456,
+    "ultima_sincronizacion": "17/08/2026 19:50:46",
+    "conteo": 457,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -4560,6 +4560,16 @@
             "ciudad": "AREQUIPA",
             "vuelo": "H25116",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "17/08/2026",
+            "hora_prog": "23:30",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7008",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
