@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/08/2026 04:30:58",
-    "conteo": 15,
+    "ultima_sincronizacion": "19/08/2026 04:40:56",
+    "conteo": 17,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -149,6 +149,26 @@
             "hora_real": "",
             "ciudad": "PUERTO MALDONADO",
             "vuelo": "LA2260",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "19/08/2026",
+            "hora_prog": "19:25",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2069",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "19/08/2026",
+            "hora_prog": "23:50",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2070",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
