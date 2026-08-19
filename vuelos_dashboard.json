@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/08/2026 11:31:02",
-    "conteo": 36,
+    "ultima_sincronizacion": "19/08/2026 11:40:48",
+    "conteo": 38,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -360,6 +360,26 @@
             "ciudad": "CUSCO",
             "vuelo": "H25722",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "19/08/2026",
+            "hora_prog": "13:05",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2270",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "19/08/2026",
+            "hora_prog": "16:30",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2271",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
