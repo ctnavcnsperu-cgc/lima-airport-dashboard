@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/08/2026 07:01:00",
-    "conteo": 19,
+    "ultima_sincronizacion": "19/08/2026 07:10:46",
+    "conteo": 20,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -190,6 +190,16 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2011",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "19/08/2026",
+            "hora_prog": "08:35",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25002",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
