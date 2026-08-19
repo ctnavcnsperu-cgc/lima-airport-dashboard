@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/08/2026 06:40:45",
-    "conteo": 17,
+    "ultima_sincronizacion": "19/08/2026 06:51:01",
+    "conteo": 19,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -169,6 +169,26 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2070",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "19/08/2026",
+            "hora_prog": "08:18",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2344",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "19/08/2026",
+            "hora_prog": "08:41",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2011",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
