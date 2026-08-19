@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/08/2026 08:10:56",
-    "conteo": 512,
+    "ultima_sincronizacion": "19/08/2026 08:21:00",
+    "conteo": 515,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -5120,6 +5120,36 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2343",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "19/08/2026",
+            "hora_prog": "08:50",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7019",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "19/08/2026",
+            "hora_prog": "09:10",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7018",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "19/08/2026",
+            "hora_prog": "09:30",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7012",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
