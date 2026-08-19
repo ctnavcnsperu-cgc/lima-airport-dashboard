@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/08/2026 10:30:55",
-    "conteo": 524,
+    "ultima_sincronizacion": "19/08/2026 10:41:00",
+    "conteo": 525,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -5240,6 +5240,16 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2218",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "19/08/2026",
+            "hora_prog": "10:00",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25721",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
