@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/08/2026 18:30:57",
-    "conteo": 38,
+    "ultima_sincronizacion": "19/08/2026 18:41:04",
+    "conteo": 39,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -380,6 +380,16 @@
             "ciudad": "CHICLAYO",
             "vuelo": "LA2271",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "19/08/2026",
+            "hora_prog": "17:00",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "4A1985",
+            "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
     ]
