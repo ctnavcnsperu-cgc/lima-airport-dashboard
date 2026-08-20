@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "20/08/2026 09:20:52",
-    "conteo": 539,
+    "ultima_sincronizacion": "20/08/2026 09:30:54",
+    "conteo": 540,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -5390,6 +5390,16 @@
             "ciudad": "TRUJILLO",
             "vuelo": "H25289",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "20/08/2026",
+            "hora_prog": "12:25",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "JA7259",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
