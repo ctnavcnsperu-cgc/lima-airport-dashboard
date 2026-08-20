@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "20/08/2026 08:10:53",
-    "conteo": 538,
+    "ultima_sincronizacion": "20/08/2026 08:20:53",
+    "conteo": 539,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -5380,6 +5380,16 @@
             "ciudad": "PIURA",
             "vuelo": "LA2015",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "20/08/2026",
+            "hora_prog": "23:20",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "H25289",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
