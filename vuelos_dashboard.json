@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "21/08/2026 12:50:52",
-    "conteo": 10,
+    "ultima_sincronizacion": "21/08/2026 13:00:50",
+    "conteo": 11,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -100,6 +100,16 @@
             "ciudad": "TARAPOTO",
             "vuelo": "H25403",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "21/08/2026",
+            "hora_prog": "14:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2108",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
