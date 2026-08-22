@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "22/08/2026 18:00:55",
-    "conteo": 13,
+    "ultima_sincronizacion": "22/08/2026 18:10:45",
+    "conteo": 14,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -130,6 +130,16 @@
             "ciudad": "TRUJILLO",
             "vuelo": "LA2136",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "22/08/2026",
+            "hora_prog": "22:00",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2226",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
