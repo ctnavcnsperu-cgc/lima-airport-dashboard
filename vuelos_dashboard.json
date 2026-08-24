@@ -1,10 +1,10 @@
 {
-    "ultima_sincronizacion": "23/08/2026 23:50:42",
-    "conteo": 7,
+    "ultima_sincronizacion": "24/08/2026 00:01:11",
+    "conteo": 9,
     "vuelos": [
         {
             "tipo": "SALIDAS",
-            "fecha": "23/08/2026",
+            "fecha": "24/08/2026",
             "hora_prog": "07:15",
             "hora_real": "",
             "ciudad": "CHICLAYO",
@@ -14,37 +14,37 @@
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "23/08/2026",
-            "hora_prog": "07:55",
+            "fecha": "24/08/2026",
+            "hora_prog": "07:50",
             "hora_real": "",
-            "ciudad": "TARAPOTO",
-            "vuelo": "2I3115",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "2I2233",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "23/08/2026",
-            "hora_prog": "10:10",
+            "fecha": "24/08/2026",
+            "hora_prog": "12:20",
             "hora_real": "",
-            "ciudad": "CHACHAPOYAS",
-            "vuelo": "4A4003",
-            "aerolinea": "ATSA Aero Transporte",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2227",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/08/2026",
+            "hora_prog": "19:05",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3243",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "23/08/2026",
-            "hora_prog": "09:10",
-            "hora_real": "",
-            "ciudad": "HUANUCO",
-            "vuelo": "4A4030",
-            "aerolinea": "ATSA Aero Transporte",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "23/08/2026",
+            "fecha": "24/08/2026",
             "hora_prog": "10:20",
             "hora_real": "",
             "ciudad": "CHICLAYO",
@@ -54,22 +54,42 @@
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "23/08/2026",
-            "hora_prog": "13:50",
+            "fecha": "24/08/2026",
+            "hora_prog": "10:30",
             "hora_real": "",
-            "ciudad": "CHACHAPOYAS",
-            "vuelo": "4A4004",
-            "aerolinea": "ATSA Aero Transporte",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "2I2234",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "23/08/2026",
-            "hora_prog": "14:00",
+            "fecha": "24/08/2026",
+            "hora_prog": "15:25",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2228",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/08/2026",
+            "hora_prog": "22:00",
             "hora_real": "",
             "ciudad": "TARAPOTO",
-            "vuelo": "2I3116",
+            "vuelo": "2I3244",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/08/2026",
+            "hora_prog": "23:45",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "H25367",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
