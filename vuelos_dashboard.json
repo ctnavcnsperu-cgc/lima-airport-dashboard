@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/08/2026 17:40:48",
-    "conteo": 12,
+    "ultima_sincronizacion": "24/08/2026 17:50:46",
+    "conteo": 13,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -120,6 +120,16 @@
             "ciudad": "HUANUCO",
             "vuelo": "4A4042",
             "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/08/2026",
+            "hora_prog": "19:45",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2212",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
