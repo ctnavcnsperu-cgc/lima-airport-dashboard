@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/08/2026 07:30:57",
-    "conteo": 586,
+    "ultima_sincronizacion": "24/08/2026 07:40:49",
+    "conteo": 588,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -5859,6 +5859,26 @@
             "hora_real": "",
             "ciudad": "IQUITOS",
             "vuelo": "H25367",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/08/2026",
+            "hora_prog": "10:05",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25007",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/08/2026",
+            "hora_prog": "14:00",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25008",
             "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
