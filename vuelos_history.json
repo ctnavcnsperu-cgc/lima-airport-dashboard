@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/08/2026 18:01:20",
-    "conteo": 592,
+    "ultima_sincronizacion": "24/08/2026 18:10:54",
+    "conteo": 593,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -5920,6 +5920,16 @@
             "ciudad": "JULIACA",
             "vuelo": "H25170",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/08/2026",
+            "hora_prog": "19:40",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2211",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
