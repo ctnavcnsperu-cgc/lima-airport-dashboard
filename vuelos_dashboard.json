@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "26/08/2026 07:40:49",
-    "conteo": 16,
+    "ultima_sincronizacion": "26/08/2026 07:51:00",
+    "conteo": 17,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -159,6 +159,16 @@
             "hora_real": "",
             "ciudad": "TARAPOTO",
             "vuelo": "LA2262",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "26/08/2026",
+            "hora_prog": "06:15",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "LA2352",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
