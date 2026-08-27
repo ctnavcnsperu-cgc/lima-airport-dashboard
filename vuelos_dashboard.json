@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "27/08/2026 09:31:27",
-    "conteo": 13,
+    "ultima_sincronizacion": "27/08/2026 09:40:55",
+    "conteo": 15,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -129,6 +129,26 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2277",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "27/08/2026",
+            "hora_prog": "11:40",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2111",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "27/08/2026",
+            "hora_prog": "16:35",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2276",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
