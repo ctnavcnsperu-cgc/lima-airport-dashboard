@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "01/09/2026 00:23:05",
-    "conteo": 676,
+    "ultima_sincronizacion": "01/09/2026 00:51:01",
+    "conteo": 677,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -6759,6 +6759,16 @@
             "hora_real": "",
             "ciudad": "TARAPOTO",
             "vuelo": "2I3244",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "01/09/2026",
+            "hora_prog": "07:15",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "2I3111",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
