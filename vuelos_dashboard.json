@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "02/09/2026 15:20:44",
-    "conteo": 15,
+    "ultima_sincronizacion": "02/09/2026 15:30:59",
+    "conteo": 17,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -150,6 +150,26 @@
             "ciudad": "TACNA",
             "vuelo": "LA2216",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "02/09/2026",
+            "hora_prog": "15:00",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "4A4043",
+            "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "02/09/2026",
+            "hora_prog": "14:00",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A043",
+            "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         }
     ]
