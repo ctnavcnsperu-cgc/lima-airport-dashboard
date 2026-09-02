@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "02/09/2026 15:50:59",
-    "conteo": 696,
+    "ultima_sincronizacion": "02/09/2026 16:01:04",
+    "conteo": 698,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -6959,6 +6959,26 @@
             "hora_real": "",
             "ciudad": "HUANUCO",
             "vuelo": "4A4044",
+            "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "02/09/2026",
+            "hora_prog": "15:00",
+            "hora_real": "",
+            "ciudad": "MAZAMARI",
+            "vuelo": "4A4093",
+            "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "02/09/2026",
+            "hora_prog": "16:30",
+            "hora_real": "",
+            "ciudad": "MAZAMARI",
+            "vuelo": "4A4094",
             "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
