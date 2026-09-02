@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "02/09/2026 15:40:40",
-    "conteo": 695,
+    "ultima_sincronizacion": "02/09/2026 15:50:59",
+    "conteo": 696,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -6950,6 +6950,16 @@
             "ciudad": "MALVINA",
             "vuelo": "S4A043",
             "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "02/09/2026",
+            "hora_prog": "17:20",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "4A4044",
+            "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
     ]
