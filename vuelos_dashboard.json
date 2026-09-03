@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "03/09/2026 10:01:17",
-    "conteo": 17,
+    "ultima_sincronizacion": "03/09/2026 10:10:58",
+    "conteo": 19,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -170,6 +170,26 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2025",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/09/2026",
+            "hora_prog": "14:55",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "4A4043",
+            "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/09/2026",
+            "hora_prog": "17:10",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "4A4044",
+            "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
     ]
