@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "03/09/2026 07:50:51",
-    "conteo": 13,
+    "ultima_sincronizacion": "03/09/2026 08:01:30",
+    "conteo": 15,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -129,6 +129,26 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2204",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/09/2026",
+            "hora_prog": "12:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2118",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "03/09/2026",
+            "hora_prog": "12:40",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2244",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
