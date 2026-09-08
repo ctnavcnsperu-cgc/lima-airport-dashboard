@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "07/09/2026 22:00:47",
-    "conteo": 744,
+    "ultima_sincronizacion": "07/09/2026 22:10:42",
+    "conteo": 745,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -7440,6 +7440,16 @@
             "ciudad": "MALVINA",
             "vuelo": "S4A043",
             "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "07/09/2026",
+            "hora_prog": "20:55",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3234",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
