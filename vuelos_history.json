@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "08/09/2026 23:50:54",
-    "conteo": 753,
+    "ultima_sincronizacion": "09/09/2026 00:01:11",
+    "conteo": 763,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -7529,6 +7529,106 @@
             "hora_real": "",
             "ciudad": "CHICLAYO",
             "vuelo": "2I2226",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "09/09/2026",
+            "hora_prog": "07:15",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2123",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "09/09/2026",
+            "hora_prog": "07:15",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "2I3111",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "09/09/2026",
+            "hora_prog": "07:50",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "2I2233",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "09/09/2026",
+            "hora_prog": "12:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2227",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "09/09/2026",
+            "hora_prog": "10:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2124",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "09/09/2026",
+            "hora_prog": "10:30",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "2I2234",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "09/09/2026",
+            "hora_prog": "12:20",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3111",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "09/09/2026",
+            "hora_prog": "15:25",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2228",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "09/09/2026",
+            "hora_prog": "16:55",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3144",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "09/09/2026",
+            "hora_prog": "20:55",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3234",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
