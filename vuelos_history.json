@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "09/09/2026 23:50:46",
-    "conteo": 763,
+    "ultima_sincronizacion": "10/09/2026 00:01:01",
+    "conteo": 772,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -7629,6 +7629,96 @@
             "hora_real": "",
             "ciudad": "PUCALLPA",
             "vuelo": "2I3234",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "10/09/2026",
+            "hora_prog": "07:15",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "2I3111",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "10/09/2026",
+            "hora_prog": "14:05",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3143",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "10/09/2026",
+            "hora_prog": "18:15",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3233",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "10/09/2026",
+            "hora_prog": "18:55",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2225",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "10/09/2026",
+            "hora_prog": "12:20",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3111",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "10/09/2026",
+            "hora_prog": "16:50",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "2I3131",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "10/09/2026",
+            "hora_prog": "16:55",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3144",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "10/09/2026",
+            "hora_prog": "20:55",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3234",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "10/09/2026",
+            "hora_prog": "22:00",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2226",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
