@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "11/09/2026 16:00:57",
-    "conteo": 777,
+    "ultima_sincronizacion": "11/09/2026 16:10:47",
+    "conteo": 781,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -7770,6 +7770,46 @@
             "ciudad": "CHICLAYO",
             "vuelo": "2I2228",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "11/09/2026",
+            "hora_prog": "19:25",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7027",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "11/09/2026",
+            "hora_prog": "20:00",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7043",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "11/09/2026",
+            "hora_prog": "23:10",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7026",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "11/09/2026",
+            "hora_prog": "23:40",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7042",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
