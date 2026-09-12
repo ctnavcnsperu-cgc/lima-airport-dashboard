@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "12/09/2026 13:20:45",
-    "conteo": 796,
+    "ultima_sincronizacion": "12/09/2026 13:31:02",
+    "conteo": 798,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -7960,6 +7960,26 @@
             "ciudad": "JULIACA",
             "vuelo": "H25168",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "12/09/2026",
+            "hora_prog": "14:30",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7005",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "12/09/2026",
+            "hora_prog": "18:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7004",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
