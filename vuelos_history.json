@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "12/09/2026 05:40:46",
-    "conteo": 791,
+    "ultima_sincronizacion": "12/09/2026 05:50:55",
+    "conteo": 792,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -7910,6 +7910,16 @@
             "ciudad": "TARAPOTO",
             "vuelo": "2I3244",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "12/09/2026",
+            "hora_prog": "06:25",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7021",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
