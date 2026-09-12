@@ -1,135 +1,65 @@
 {
-    "ultima_sincronizacion": "11/09/2026 23:50:38",
-    "conteo": 13,
+    "ultima_sincronizacion": "12/09/2026 00:00:58",
+    "conteo": 6,
     "vuelos": [
         {
             "tipo": "SALIDAS",
-            "fecha": "11/09/2026",
-            "hora_prog": "07:55",
+            "fecha": "12/09/2026",
+            "hora_prog": "07:15",
             "hora_real": "",
-            "ciudad": "TARAPOTO",
-            "vuelo": "2I3115",
+            "ciudad": "IQUITOS",
+            "vuelo": "2I3111",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "11/09/2026",
+            "fecha": "12/09/2026",
+            "hora_prog": "07:50",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "2I2233",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "12/09/2026",
+            "hora_prog": "19:05",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3243",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "12/09/2026",
+            "hora_prog": "10:30",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "2I2234",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "12/09/2026",
             "hora_prog": "12:20",
             "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2227",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "11/09/2026",
-            "hora_prog": "18:15",
-            "hora_real": "",
             "ciudad": "PUCALLPA",
-            "vuelo": "2I3233",
+            "vuelo": "2I3111",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "11/09/2026",
-            "hora_prog": "14:00",
+            "fecha": "12/09/2026",
+            "hora_prog": "22:00",
             "hora_real": "",
             "ciudad": "TARAPOTO",
-            "vuelo": "2I3116",
+            "vuelo": "2I3244",
             "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "11/09/2026",
-            "hora_prog": "15:25",
-            "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2228",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "11/09/2026",
-            "hora_prog": "19:25",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "JA7027",
-            "aerolinea": "JetSmart",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "11/09/2026",
-            "hora_prog": "20:00",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "JA7043",
-            "aerolinea": "JetSmart",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "11/09/2026",
-            "hora_prog": "23:10",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "JA7026",
-            "aerolinea": "JetSmart",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "11/09/2026",
-            "hora_prog": "23:40",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "JA7042",
-            "aerolinea": "JetSmart",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "11/09/2026",
-            "hora_prog": "20:50",
-            "hora_real": "",
-            "ciudad": "TACNA",
-            "vuelo": "LA2216",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "11/09/2026",
-            "hora_prog": "20:15",
-            "hora_real": "",
-            "ciudad": "TACNA",
-            "vuelo": "LA2215",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "11/09/2026",
-            "hora_prog": "22:25",
-            "hora_real": "",
-            "ciudad": "TACNA",
-            "vuelo": "LA2171",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "11/09/2026",
-            "hora_prog": "22:40",
-            "hora_real": "",
-            "ciudad": "TACNA",
-            "vuelo": "LA2170",
-            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
