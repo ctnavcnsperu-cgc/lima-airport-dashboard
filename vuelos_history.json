@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "12/09/2026 23:50:43",
-    "conteo": 801,
+    "ultima_sincronizacion": "13/09/2026 00:01:01",
+    "conteo": 806,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -8010,6 +8010,56 @@
             "ciudad": "CUSCO",
             "vuelo": "JA7028",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "13/09/2026",
+            "hora_prog": "07:15",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2123",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "13/09/2026",
+            "hora_prog": "14:05",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3143",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "13/09/2026",
+            "hora_prog": "10:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2124",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "13/09/2026",
+            "hora_prog": "16:50",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "2I3131",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "13/09/2026",
+            "hora_prog": "16:55",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3144",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
