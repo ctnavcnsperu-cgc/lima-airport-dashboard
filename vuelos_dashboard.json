@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/09/2026 13:20:56",
-    "conteo": 15,
+    "ultima_sincronizacion": "17/09/2026 13:31:04",
+    "conteo": 16,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -150,6 +150,16 @@
             "ciudad": "ANDAHUAYLAS",
             "vuelo": "4A4072",
             "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "17/09/2026",
+            "hora_prog": "13:25",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2028",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
