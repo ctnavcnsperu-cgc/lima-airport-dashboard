@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "18/09/2026 20:20:49",
-    "conteo": 872,
+    "ultima_sincronizacion": "18/09/2026 20:30:48",
+    "conteo": 873,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -8719,6 +8719,16 @@
             "hora_real": "",
             "ciudad": "TACNA",
             "vuelo": "LA2215",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "18/09/2026",
+            "hora_prog": "23:15",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2170",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
