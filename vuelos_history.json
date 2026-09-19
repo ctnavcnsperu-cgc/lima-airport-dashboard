@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/09/2026 17:00:45",
-    "conteo": 889,
+    "ultima_sincronizacion": "19/09/2026 17:11:15",
+    "conteo": 891,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -8890,6 +8890,26 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2999",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "19/09/2026",
+            "hora_prog": "19:20",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "H25115",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "19/09/2026",
+            "hora_prog": "23:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "H25116",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
