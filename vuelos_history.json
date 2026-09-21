@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "21/09/2026 01:10:51",
-    "conteo": 909,
+    "ultima_sincronizacion": "21/09/2026 01:21:00",
+    "conteo": 910,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -9090,6 +9090,16 @@
             "ciudad": "MALVINA",
             "vuelo": "S4A069",
             "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "21/09/2026",
+            "hora_prog": "08:35",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25002",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
