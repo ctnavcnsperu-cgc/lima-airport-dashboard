@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/09/2026 07:41:06",
-    "conteo": 24,
+    "ultima_sincronizacion": "24/09/2026 07:50:59",
+    "conteo": 27,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -239,6 +239,36 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "JA7019",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "09:35",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7021",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "13:35",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7020",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "18:05",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7004",
             "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
