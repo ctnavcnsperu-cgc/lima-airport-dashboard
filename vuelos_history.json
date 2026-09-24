@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "23/09/2026 23:50:57",
-    "conteo": 941,
+    "ultima_sincronizacion": "24/09/2026 00:01:16",
+    "conteo": 961,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -9410,6 +9410,206 @@
             "ciudad": "TARAPOTO",
             "vuelo": "2I3244",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "05:15",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2011",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "07:15",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "2I3111",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "08:00",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A064",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "08:55",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "JA7260",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "10:15",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7035",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "14:05",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3143",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "15:10",
+            "hora_real": "",
+            "ciudad": "PIURA",
+            "vuelo": "JA7224",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "18:15",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7009",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "18:45",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7041",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "18:55",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2225",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "09:05",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2010",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "11:00",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A065",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "12:20",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3111",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "12:25",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "JA7261",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "13:50",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7034",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "16:55",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3144",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "19:05",
+            "hora_real": "",
+            "ciudad": "PIURA",
+            "vuelo": "JA7225",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "21:55",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7008",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "22:00",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2226",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "22:20",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7040",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
