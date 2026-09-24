@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/09/2026 02:20:48",
-    "conteo": 962,
+    "ultima_sincronizacion": "24/09/2026 02:30:53",
+    "conteo": 964,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -9620,6 +9620,26 @@
             "ciudad": "CUSCO",
             "vuelo": "JA7018",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "14:35",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2282",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "18:10",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2283",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
