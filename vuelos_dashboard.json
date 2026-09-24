@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/09/2026 01:40:52",
-    "conteo": 20,
+    "ultima_sincronizacion": "24/09/2026 01:50:59",
+    "conteo": 21,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -199,6 +199,16 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "JA7040",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "08:55",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7018",
             "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
