@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/09/2026 09:21:20",
-    "conteo": 968,
+    "ultima_sincronizacion": "24/09/2026 09:30:55",
+    "conteo": 970,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -9680,6 +9680,26 @@
             "ciudad": "AREQUIPA",
             "vuelo": "JA7004",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "12:45",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2043",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/09/2026",
+            "hora_prog": "16:35",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2044",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
