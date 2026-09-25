@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "25/09/2026 13:50:46",
-    "conteo": 985,
+    "ultima_sincronizacion": "25/09/2026 14:01:01",
+    "conteo": 986,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -9849,6 +9849,16 @@
             "hora_real": "",
             "ciudad": "TRUJILLO",
             "vuelo": "LA2139",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "25/09/2026",
+            "hora_prog": "18:00",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2206",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
