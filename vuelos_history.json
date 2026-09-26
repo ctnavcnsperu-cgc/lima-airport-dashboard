@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "26/09/2026 15:30:55",
-    "conteo": 1003,
+    "ultima_sincronizacion": "26/09/2026 15:40:40",
+    "conteo": 1004,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -10029,6 +10029,16 @@
             "hora_real": "",
             "ciudad": "AYACUCHO",
             "vuelo": "H25210",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "26/09/2026",
+            "hora_prog": "16:30",
+            "hora_real": "",
+            "ciudad": "AYACUCHO",
+            "vuelo": "H25209",
             "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
