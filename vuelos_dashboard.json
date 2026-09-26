@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "25/09/2026 22:50:41",
-    "conteo": 17,
+    "ultima_sincronizacion": "25/09/2026 23:00:47",
+    "conteo": 18,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -169,6 +169,16 @@
             "hora_real": "",
             "ciudad": "JULIACA",
             "vuelo": "LA2205",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "25/09/2026",
+            "hora_prog": "21:45",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "LA2040",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
