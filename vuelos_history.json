@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "26/09/2026 15:10:45",
-    "conteo": 1002,
+    "ultima_sincronizacion": "26/09/2026 15:20:56",
+    "conteo": 1003,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -10020,6 +10020,16 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2062",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "26/09/2026",
+            "hora_prog": "16:55",
+            "hora_real": "",
+            "ciudad": "AYACUCHO",
+            "vuelo": "H25210",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
