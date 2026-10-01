@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "01/10/2026 03:11:04",
-    "conteo": 1052,
+    "ultima_sincronizacion": "01/10/2026 03:20:51",
+    "conteo": 1054,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -10519,6 +10519,26 @@
             "hora_real": "",
             "ciudad": "TRUJILLO",
             "vuelo": "LA2141",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "01/10/2026",
+            "hora_prog": "08:10",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2142",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "01/10/2026",
+            "hora_prog": "08:30",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2175",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
