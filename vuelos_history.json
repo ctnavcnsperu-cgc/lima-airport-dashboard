@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "02/10/2026 18:00:58",
-    "conteo": 1068,
+    "ultima_sincronizacion": "02/10/2026 18:10:49",
+    "conteo": 1069,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -10680,6 +10680,16 @@
             "ciudad": "PUCALLPA",
             "vuelo": "H25421",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "02/10/2026",
+            "hora_prog": "20:40",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2035",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
