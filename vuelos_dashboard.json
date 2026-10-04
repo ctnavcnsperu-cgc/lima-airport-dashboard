@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "04/10/2026 15:40:47",
-    "conteo": 10,
+    "ultima_sincronizacion": "04/10/2026 15:50:49",
+    "conteo": 12,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -100,6 +100,26 @@
             "ciudad": "PIURA",
             "vuelo": "JA7225",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "04/10/2026",
+            "hora_prog": "20:40",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2035",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "04/10/2026",
+            "hora_prog": "22:00",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2221",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
