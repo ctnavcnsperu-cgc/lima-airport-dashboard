@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "05/10/2026 17:20:52",
-    "conteo": 21,
+    "ultima_sincronizacion": "05/10/2026 17:30:57",
+    "conteo": 22,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -210,6 +210,16 @@
             "ciudad": "TRUJILLO",
             "vuelo": "LA2080",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "05/10/2026",
+            "hora_prog": "17:00",
+            "hora_real": "",
+            "ciudad": "MALVINA",
+            "vuelo": "S4A069",
+            "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         }
     ]
