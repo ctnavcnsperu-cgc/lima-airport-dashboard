@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "05/10/2026 01:20:58",
-    "conteo": 13,
+    "ultima_sincronizacion": "05/10/2026 01:30:46",
+    "conteo": 14,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -130,6 +130,16 @@
             "ciudad": "AREQUIPA",
             "vuelo": "JA7008",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "05/10/2026",
+            "hora_prog": "05:10",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2141",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
