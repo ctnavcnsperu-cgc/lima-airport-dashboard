@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "05/10/2026 10:30:46",
-    "conteo": 20,
+    "ultima_sincronizacion": "05/10/2026 10:40:57",
+    "conteo": 21,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -200,6 +200,16 @@
             "ciudad": "MAZAMARI",
             "vuelo": "4A4096",
             "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "05/10/2026",
+            "hora_prog": "23:50",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2080",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
