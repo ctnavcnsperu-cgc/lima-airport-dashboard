@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "05/10/2026 18:41:33",
-    "conteo": 1111,
+    "ultima_sincronizacion": "05/10/2026 18:51:01",
+    "conteo": 1112,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -11109,6 +11109,16 @@
             "hora_real": "",
             "ciudad": "MALVINA",
             "vuelo": "S4A069",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "05/10/2026",
+            "hora_prog": "18:00",
+            "hora_real": "",
+            "ciudad": "NAZC",
+            "vuelo": "A4A1983",
             "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         }
