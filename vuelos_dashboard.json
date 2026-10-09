@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "09/10/2026 05:51:00",
-    "conteo": 11,
+    "ultima_sincronizacion": "09/10/2026 06:01:08",
+    "conteo": 12,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -110,6 +110,16 @@
             "ciudad": "CHICLAYO",
             "vuelo": "2I2226",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "09/10/2026",
+            "hora_prog": "07:30",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "LA2081",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
