@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "09/10/2026 15:00:44",
-    "conteo": 13,
+    "ultima_sincronizacion": "09/10/2026 15:11:16",
+    "conteo": 15,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -130,6 +130,26 @@
             "ciudad": "TARAPOTO",
             "vuelo": "LA2082",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "09/10/2026",
+            "hora_prog": "20:00",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7033",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "09/10/2026",
+            "hora_prog": "23:35",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7032",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
