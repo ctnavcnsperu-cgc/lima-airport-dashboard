@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "10/10/2026 14:01:02",
-    "conteo": 1172,
+    "ultima_sincronizacion": "10/10/2026 14:10:51",
+    "conteo": 1173,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -11720,6 +11720,16 @@
             "ciudad": "CUSCO",
             "vuelo": "H25025",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "10/10/2026",
+            "hora_prog": "15:30",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7009",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
