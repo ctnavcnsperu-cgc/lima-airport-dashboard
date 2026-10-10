@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "10/10/2026 13:10:51",
-    "conteo": 1171,
+    "ultima_sincronizacion": "10/10/2026 13:20:52",
+    "conteo": 1172,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -11710,6 +11710,16 @@
             "ciudad": "CUSCO",
             "vuelo": "JA7028",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "10/10/2026",
+            "hora_prog": "16:30",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25025",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
