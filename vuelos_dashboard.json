@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "11/10/2026 05:50:53",
-    "conteo": 29,
+    "ultima_sincronizacion": "11/10/2026 06:01:09",
+    "conteo": 30,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -289,6 +289,16 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "JA7050",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "11/10/2026",
+            "hora_prog": "09:50",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7003",
             "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
