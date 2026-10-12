@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "12/10/2026 17:30:47",
-    "conteo": 6,
+    "ultima_sincronizacion": "12/10/2026 17:40:51",
+    "conteo": 8,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -60,6 +60,26 @@
             "ciudad": "AYACUCHO",
             "vuelo": "LA2185",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "12/10/2026",
+            "hora_prog": "19:05",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25015",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "12/10/2026",
+            "hora_prog": "19:20",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25016",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
