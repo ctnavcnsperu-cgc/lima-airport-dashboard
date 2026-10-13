@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "13/10/2026 13:50:53",
-    "conteo": 4,
+    "ultima_sincronizacion": "13/10/2026 14:00:46",
+    "conteo": 5,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -40,6 +40,16 @@
             "ciudad": "PUERTO MALDONADO",
             "vuelo": "LA2193",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "13/10/2026",
+            "hora_prog": "15:00",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "4A4043",
+            "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
     ]
