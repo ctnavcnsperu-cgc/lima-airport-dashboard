@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "13/10/2026 15:01:04",
-    "conteo": 1217,
+    "ultima_sincronizacion": "13/10/2026 15:10:44",
+    "conteo": 1218,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -12169,6 +12169,16 @@
             "hora_real": "",
             "ciudad": "HUANUCO",
             "vuelo": "4A4043",
+            "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "13/10/2026",
+            "hora_prog": "17:20",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "4A4044",
             "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
