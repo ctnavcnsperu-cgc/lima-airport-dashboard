@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/10/2026 10:50:47",
-    "conteo": 8,
+    "ultima_sincronizacion": "14/10/2026 11:01:13",
+    "conteo": 9,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -79,6 +79,16 @@
             "hora_real": "",
             "ciudad": "PIURA",
             "vuelo": "LA2126",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/10/2026",
+            "hora_prog": "11:40",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2061",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
