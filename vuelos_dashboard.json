@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "15/10/2026 10:40:54",
-    "conteo": 10,
+    "ultima_sincronizacion": "15/10/2026 10:50:55",
+    "conteo": 11,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -99,6 +99,16 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2110",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "15/10/2026",
+            "hora_prog": "18:45",
+            "hora_real": "",
+            "ciudad": "TUMBES",
+            "vuelo": "LA2073",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
