@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "15/10/2026 02:20:58",
-    "conteo": 4,
+    "ultima_sincronizacion": "15/10/2026 02:30:58",
+    "conteo": 5,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -39,6 +39,16 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA9957",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "15/10/2026",
+            "hora_prog": "06:45",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "LA2065",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
