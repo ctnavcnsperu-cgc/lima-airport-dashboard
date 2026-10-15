@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "15/10/2026 11:50:56",
-    "conteo": 12,
+    "ultima_sincronizacion": "15/10/2026 12:01:01",
+    "conteo": 13,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -119,6 +119,16 @@
             "hora_real": "",
             "ciudad": "CHICLAYO",
             "vuelo": "LA2153",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "15/10/2026",
+            "hora_prog": "23:05",
+            "hora_real": "",
+            "ciudad": "TUMBES",
+            "vuelo": "LA2074",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
