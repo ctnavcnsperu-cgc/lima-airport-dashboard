@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/10/2026 21:30:58",
-    "conteo": 10,
+    "ultima_sincronizacion": "14/10/2026 21:40:59",
+    "conteo": 11,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -99,6 +99,16 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2326",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/10/2026",
+            "hora_prog": "23:05",
+            "hora_real": "",
+            "ciudad": "TUMBES",
+            "vuelo": "LA2074",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
