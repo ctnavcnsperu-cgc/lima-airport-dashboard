@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "15/10/2026 03:11:03",
-    "conteo": 5,
+    "ultima_sincronizacion": "15/10/2026 03:20:57",
+    "conteo": 6,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -49,6 +49,16 @@
             "hora_real": "",
             "ciudad": "IQUITOS",
             "vuelo": "LA2065",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "15/10/2026",
+            "hora_prog": "05:15",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2011",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
