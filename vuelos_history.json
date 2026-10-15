@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "15/10/2026 00:40:59",
-    "conteo": 3,
+    "ultima_sincronizacion": "15/10/2026 00:50:52",
+    "conteo": 4,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -30,6 +30,16 @@
             "ciudad": "CUSCO",
             "vuelo": "H25016",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "15/10/2026",
+            "hora_prog": "04:45",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA9957",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
