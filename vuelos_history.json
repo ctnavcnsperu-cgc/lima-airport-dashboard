@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "15/10/2026 23:50:53",
-    "conteo": 14,
+    "ultima_sincronizacion": "16/10/2026 00:01:04",
+    "conteo": 21,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -140,6 +140,76 @@
             "ciudad": "CHICLAYO",
             "vuelo": "LA2152",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/10/2026",
+            "hora_prog": "07:50",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "2I2233",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/10/2026",
+            "hora_prog": "11:55",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "2I4222",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/10/2026",
+            "hora_prog": "12:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2227",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/10/2026",
+            "hora_prog": "15:00",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "2I4220",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/10/2026",
+            "hora_prog": "10:30",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "2I2234",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/10/2026",
+            "hora_prog": "15:25",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2228",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/10/2026",
+            "hora_prog": "17:15",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "2I4221",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
