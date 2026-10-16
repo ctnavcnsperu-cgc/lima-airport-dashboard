@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "16/10/2026 15:30:47",
-    "conteo": 21,
+    "ultima_sincronizacion": "16/10/2026 15:40:51",
+    "conteo": 25,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -210,6 +210,46 @@
             "ciudad": "HUANUCO",
             "vuelo": "2I4221",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/10/2026",
+            "hora_prog": "18:05",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7011",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/10/2026",
+            "hora_prog": "18:50",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7027",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/10/2026",
+            "hora_prog": "21:55",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "JA7010",
+            "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/10/2026",
+            "hora_prog": "22:20",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "JA7026",
+            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
