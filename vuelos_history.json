@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "16/10/2026 21:30:55",
-    "conteo": 26,
+    "ultima_sincronizacion": "16/10/2026 21:40:39",
+    "conteo": 28,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -259,6 +259,26 @@
             "hora_real": "",
             "ciudad": "AYACUCHO",
             "vuelo": "H25210",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/10/2026",
+            "hora_prog": "23:48",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "H25366",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/10/2026",
+            "hora_prog": "23:45",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "H25367",
             "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
