@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "18/10/2026 18:30:49",
-    "conteo": 45,
+    "ultima_sincronizacion": "18/10/2026 18:40:51",
+    "conteo": 46,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -450,6 +450,16 @@
             "ciudad": "PIURA",
             "vuelo": "JA7227",
             "aerolinea": "JetSmart",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/10/2026",
+            "hora_prog": "17:15",
+            "hora_real": "",
+            "ciudad": "PIA",
+            "vuelo": "S4A1875",
+            "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         }
     ]
