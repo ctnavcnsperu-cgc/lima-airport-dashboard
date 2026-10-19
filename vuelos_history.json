@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/10/2026 10:01:03",
-    "conteo": 55,
+    "ultima_sincronizacion": "19/10/2026 10:10:52",
+    "conteo": 56,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -549,6 +549,16 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2013",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "19/10/2026",
+            "hora_prog": "19:00",
+            "hora_real": "",
+            "ciudad": "TALARA",
+            "vuelo": "LA2255",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
