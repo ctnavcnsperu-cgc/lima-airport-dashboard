@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/10/2026 13:50:58",
-    "conteo": 56,
+    "ultima_sincronizacion": "19/10/2026 14:01:01",
+    "conteo": 57,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -559,6 +559,16 @@
             "hora_real": "",
             "ciudad": "TALARA",
             "vuelo": "LA2255",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "19/10/2026",
+            "hora_prog": "23:20",
+            "hora_real": "",
+            "ciudad": "TALARA",
+            "vuelo": "LA2256",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
