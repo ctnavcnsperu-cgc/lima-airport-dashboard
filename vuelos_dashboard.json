@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/10/2026 07:30:56",
-    "conteo": 8,
+    "ultima_sincronizacion": "19/10/2026 07:40:50",
+    "conteo": 9,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -79,6 +79,16 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2014",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "19/10/2026",
+            "hora_prog": "08:35",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2013",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
