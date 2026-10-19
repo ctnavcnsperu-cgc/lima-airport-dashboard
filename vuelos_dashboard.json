@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/10/2026 16:10:46",
-    "conteo": 11,
+    "ultima_sincronizacion": "19/10/2026 16:20:57",
+    "conteo": 12,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -109,6 +109,16 @@
             "hora_real": "",
             "ciudad": "TALARA",
             "vuelo": "LA2256",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "19/10/2026",
+            "hora_prog": "17:55",
+            "hora_real": "",
+            "ciudad": "AYACUCHO",
+            "vuelo": "LA2185",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
