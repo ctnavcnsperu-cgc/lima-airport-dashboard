@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "20/10/2026 09:50:53",
-    "conteo": 61,
+    "ultima_sincronizacion": "20/10/2026 10:00:56",
+    "conteo": 64,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -610,6 +610,36 @@
             "ciudad": "AREQUIPA",
             "vuelo": "LA2204",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "20/10/2026",
+            "hora_prog": "14:05",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3143",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "20/10/2026",
+            "hora_prog": "16:55",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3144",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "20/10/2026",
+            "hora_prog": "22:00",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2226",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
