@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/10/2026 23:50:52",
-    "conteo": 59,
+    "ultima_sincronizacion": "20/10/2026 00:00:54",
+    "conteo": 61,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -589,6 +589,26 @@
             "hora_real": "",
             "ciudad": "AYACUCHO",
             "vuelo": "LA2186",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "20/10/2026",
+            "hora_prog": "06:45",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2203",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "20/10/2026",
+            "hora_prog": "10:25",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2204",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
