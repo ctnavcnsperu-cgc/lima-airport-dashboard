@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "20/10/2026 23:50:59",
-    "conteo": 69,
+    "ultima_sincronizacion": "21/10/2026 00:01:04",
+    "conteo": 70,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -690,6 +690,16 @@
             "ciudad": "CAJAMARCA",
             "vuelo": "LA2296",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "21/10/2026",
+            "hora_prog": "14:10",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "2I4223",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
