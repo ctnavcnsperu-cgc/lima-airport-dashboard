@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "21/10/2026 09:00:51",
-    "conteo": 71,
+    "ultima_sincronizacion": "21/10/2026 09:11:04",
+    "conteo": 72,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -710,6 +710,16 @@
             "ciudad": "TRUJILLO",
             "vuelo": "LA2135",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "21/10/2026",
+            "hora_prog": "10:15",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "4A4030",
+            "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
     ]
