@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "21/10/2026 15:31:04",
-    "conteo": 3,
+    "ultima_sincronizacion": "21/10/2026 15:41:00",
+    "conteo": 4,
     "vuelos": [
         {
             "tipo": "LLEGADAS",
@@ -30,6 +30,16 @@
             "ciudad": "HUANUCO",
             "vuelo": "4A4030",
             "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "21/10/2026",
+            "hora_prog": "23:20",
+            "hora_real": "",
+            "ciudad": "TALARA",
+            "vuelo": "LA2256",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
