@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "21/10/2026 05:40:50",
-    "conteo": 1,
+    "ultima_sincronizacion": "21/10/2026 05:51:03",
+    "conteo": 2,
     "vuelos": [
         {
             "tipo": "LLEGADAS",
@@ -10,6 +10,16 @@
             "ciudad": "HUANUCO",
             "vuelo": "2I4223",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "21/10/2026",
+            "hora_prog": "14:25",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2135",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
