@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "22/10/2026 00:30:56",
-    "conteo": 80,
+    "ultima_sincronizacion": "22/10/2026 00:40:44",
+    "conteo": 81,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -799,6 +799,16 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2102",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "22/10/2026",
+            "hora_prog": "17:15",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2153",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
