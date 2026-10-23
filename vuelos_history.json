@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "23/10/2026 14:31:19",
-    "conteo": 99,
+    "ultima_sincronizacion": "23/10/2026 14:41:01",
+    "conteo": 101,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -989,6 +989,26 @@
             "hora_real": "",
             "ciudad": "TRUJILLO",
             "vuelo": "LA2228",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "23/10/2026",
+            "hora_prog": "16:35",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2276",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "23/10/2026",
+            "hora_prog": "20:10",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2277",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
