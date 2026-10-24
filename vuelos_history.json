@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/10/2026 00:30:58",
-    "conteo": 107,
+    "ultima_sincronizacion": "24/10/2026 00:41:04",
+    "conteo": 108,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1069,6 +1069,16 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2056",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/10/2026",
+            "hora_prog": "13:55",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2055",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
