@@ -1,10 +1,10 @@
 {
-    "ultima_sincronizacion": "29/10/2026 23:50:49",
-    "conteo": 10,
+    "ultima_sincronizacion": "30/10/2026 00:01:09",
+    "conteo": 5,
     "vuelos": [
         {
             "tipo": "SALIDAS",
-            "fecha": "29/10/2026",
+            "fecha": "30/10/2026",
             "hora_prog": "07:15",
             "hora_real": "",
             "ciudad": "IQUITOS",
@@ -14,17 +14,7 @@
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "29/10/2026",
-            "hora_prog": "11:55",
-            "hora_real": "",
-            "ciudad": "HUANUCO",
-            "vuelo": "2I4222",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "29/10/2026",
+            "fecha": "30/10/2026",
             "hora_prog": "14:05",
             "hora_real": "",
             "ciudad": "TARAPOTO",
@@ -34,7 +24,17 @@
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "29/10/2026",
+            "fecha": "30/10/2026",
+            "hora_prog": "15:00",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "2I4220",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "30/10/2026",
             "hora_prog": "18:50",
             "hora_real": "",
             "ciudad": "CHICLAYO",
@@ -44,62 +44,12 @@
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "29/10/2026",
-            "hora_prog": "12:20",
-            "hora_real": "",
-            "ciudad": "PUCALLPA",
-            "vuelo": "2I3111",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "29/10/2026",
-            "hora_prog": "14:10",
+            "fecha": "30/10/2026",
+            "hora_prog": "17:15",
             "hora_real": "",
             "ciudad": "HUANUCO",
-            "vuelo": "2I4223",
+            "vuelo": "2I4221",
             "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "29/10/2026",
-            "hora_prog": "17:00",
-            "hora_real": "",
-            "ciudad": "TARAPOTO",
-            "vuelo": "2I3144",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "29/10/2026",
-            "hora_prog": "22:00",
-            "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2226",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "29/10/2026",
-            "hora_prog": "14:30",
-            "hora_real": "",
-            "ciudad": "NUEVO MUNDO",
-            "vuelo": "4A1985",
-            "aerolinea": "ATSA Aero Transporte",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "29/10/2026",
-            "hora_prog": "17:30",
-            "hora_real": "",
-            "ciudad": "NUEVO MUNDO",
-            "vuelo": "4A1985",
-            "aerolinea": "ATSA Aero Transporte",
             "estado": "CANCELADO"
         }
     ]
