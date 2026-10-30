@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "30/10/2026 03:40:56",
-    "conteo": 6,
+    "ultima_sincronizacion": "30/10/2026 03:50:56",
+    "conteo": 7,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -59,6 +59,16 @@
             "hora_real": "",
             "ciudad": "CHICLAYO",
             "vuelo": "2I2226",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "30/10/2026",
+            "hora_prog": "12:20",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3111",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
