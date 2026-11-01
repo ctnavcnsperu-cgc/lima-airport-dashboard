@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "01/11/2026 12:50:55",
-    "conteo": 8,
+    "ultima_sincronizacion": "01/11/2026 13:00:57",
+    "conteo": 11,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -79,6 +79,36 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2110",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "01/11/2026",
+            "hora_prog": "15:45",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2211",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "01/11/2026",
+            "hora_prog": "17:30",
+            "hora_real": "",
+            "ciudad": "TRUJILLO",
+            "vuelo": "LA2045",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "01/11/2026",
+            "hora_prog": "17:20",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2208",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
