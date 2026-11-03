@@ -1,30 +1,30 @@
 {
-    "ultima_sincronizacion": "02/11/2026 23:50:48",
+    "ultima_sincronizacion": "03/11/2026 00:01:11",
     "conteo": 9,
     "vuelos": [
         {
             "tipo": "SALIDAS",
-            "fecha": "02/11/2026",
-            "hora_prog": "07:15",
+            "fecha": "03/11/2026",
+            "hora_prog": "02:00",
             "hora_real": "",
             "ciudad": "IQUITOS",
-            "vuelo": "2I3111",
-            "aerolinea": "Star Peru",
+            "vuelo": "LA2164",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "02/11/2026",
-            "hora_prog": "07:20",
+            "fecha": "03/11/2026",
+            "hora_prog": "07:55",
             "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2123",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3147",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "02/11/2026",
+            "fecha": "03/11/2026",
             "hora_prog": "11:55",
             "hora_real": "",
             "ciudad": "HUANUCO",
@@ -34,17 +34,27 @@
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "02/11/2026",
-            "hora_prog": "19:05",
+            "fecha": "03/11/2026",
+            "hora_prog": "14:05",
             "hora_real": "",
             "ciudad": "TARAPOTO",
-            "vuelo": "2I3243",
+            "vuelo": "2I3143",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/11/2026",
+            "hora_prog": "18:50",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2225",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "02/11/2026",
+            "fecha": "03/11/2026",
             "hora_prog": "10:05",
             "hora_real": "",
             "ciudad": "PUCALLPA",
@@ -54,17 +64,17 @@
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "02/11/2026",
-            "hora_prog": "10:20",
+            "fecha": "03/11/2026",
+            "hora_prog": "10:50",
             "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2124",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3148",
             "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "02/11/2026",
+            "fecha": "03/11/2026",
             "hora_prog": "14:10",
             "hora_real": "",
             "ciudad": "HUANUCO",
@@ -74,22 +84,12 @@
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "02/11/2026",
-            "hora_prog": "22:10",
+            "fecha": "03/11/2026",
+            "hora_prog": "22:00",
             "hora_real": "",
-            "ciudad": "TARAPOTO",
-            "vuelo": "2I3244",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2226",
             "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "02/11/2026",
-            "hora_prog": "17:55",
-            "hora_real": "",
-            "ciudad": "AYACUCHO",
-            "vuelo": "LA2185",
-            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
