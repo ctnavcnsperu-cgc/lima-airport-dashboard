@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "03/11/2026 05:41:10",
-    "conteo": 10,
+    "ultima_sincronizacion": "03/11/2026 05:50:53",
+    "conteo": 11,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -100,6 +100,16 @@
             "ciudad": "IQUITOS",
             "vuelo": "LA2165",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "03/11/2026",
+            "hora_prog": "07:15",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3111",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
