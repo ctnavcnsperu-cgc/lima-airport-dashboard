@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "04/11/2026 02:40:55",
-    "conteo": 11,
+    "ultima_sincronizacion": "04/11/2026 02:50:54",
+    "conteo": 12,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -110,6 +110,16 @@
             "ciudad": "HUANUCO",
             "vuelo": "4A4029",
             "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "04/11/2026",
+            "hora_prog": "09:20",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "LA2253",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
