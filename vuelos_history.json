@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "04/11/2026 07:20:55",
-    "conteo": 14,
+    "ultima_sincronizacion": "04/11/2026 07:31:07",
+    "conteo": 17,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -140,6 +140,36 @@
             "ciudad": "MALVINA",
             "vuelo": "S4A065",
             "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "04/11/2026",
+            "hora_prog": "11:15",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2225",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "04/11/2026",
+            "hora_prog": "13:25",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2207",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "04/11/2026",
+            "hora_prog": "15:45",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2211",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
