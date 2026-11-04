@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "04/11/2026 14:10:49",
-    "conteo": 21,
+    "ultima_sincronizacion": "04/11/2026 14:20:55",
+    "conteo": 22,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -209,6 +209,16 @@
             "hora_real": "",
             "ciudad": "TUMBES",
             "vuelo": "LA2073",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "04/11/2026",
+            "hora_prog": "19:45",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2212",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
