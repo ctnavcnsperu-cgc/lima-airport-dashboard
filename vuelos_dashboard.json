@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "04/11/2026 10:20:50",
-    "conteo": 19,
+    "ultima_sincronizacion": "04/11/2026 10:32:02",
+    "conteo": 20,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -190,6 +190,16 @@
             "ciudad": "JULIACA",
             "vuelo": "LA2206",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "04/11/2026",
+            "hora_prog": "11:50",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3131",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
