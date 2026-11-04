@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "04/11/2026 15:50:50",
-    "conteo": 22,
+    "ultima_sincronizacion": "04/11/2026 16:00:56",
+    "conteo": 24,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -220,6 +220,26 @@
             "ciudad": "JULIACA",
             "vuelo": "LA2212",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "04/11/2026",
+            "hora_prog": "16:45",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25025",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "04/11/2026",
+            "hora_prog": "16:45",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25026",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
