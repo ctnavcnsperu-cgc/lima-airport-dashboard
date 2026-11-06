@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "06/11/2026 09:20:47",
-    "conteo": 18,
+    "ultima_sincronizacion": "06/11/2026 09:31:05",
+    "conteo": 19,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -179,6 +179,16 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2004",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "06/11/2026",
+            "hora_prog": "12:50",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "LA2017",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
