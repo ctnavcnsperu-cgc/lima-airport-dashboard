@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "06/11/2026 15:30:49",
-    "conteo": 70,
+    "ultima_sincronizacion": "06/11/2026 15:40:53",
+    "conteo": 71,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -699,6 +699,16 @@
             "hora_real": "",
             "ciudad": "TACNA",
             "vuelo": "LA2196",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "06/11/2026",
+            "hora_prog": "17:30",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2028",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
