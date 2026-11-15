@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "14/11/2026 22:20:48",
-    "conteo": 166,
+    "ultima_sincronizacion": "14/11/2026 22:30:58",
+    "conteo": 168,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -1659,6 +1659,26 @@
             "hora_real": "",
             "ciudad": "TUMBES",
             "vuelo": "LA2083",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "14/11/2026",
+            "hora_prog": "23:10",
+            "hora_real": "",
+            "ciudad": "TUMBES",
+            "vuelo": "LA2073",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "14/11/2026",
+            "hora_prog": "23:05",
+            "hora_real": "",
+            "ciudad": "TUMBES",
+            "vuelo": "LA2074",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
