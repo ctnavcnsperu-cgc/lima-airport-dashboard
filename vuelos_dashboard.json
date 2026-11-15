@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "15/11/2026 18:40:53",
-    "conteo": 14,
+    "ultima_sincronizacion": "15/11/2026 18:50:58",
+    "conteo": 17,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -139,6 +139,36 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2121",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "15/11/2026",
+            "hora_prog": "18:05",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2050",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "15/11/2026",
+            "hora_prog": "19:20",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2021",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "15/11/2026",
+            "hora_prog": "19:39",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2276",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
