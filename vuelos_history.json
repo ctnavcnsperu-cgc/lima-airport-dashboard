@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "16/11/2026 12:10:53",
-    "conteo": 211,
+    "ultima_sincronizacion": "16/11/2026 12:20:56",
+    "conteo": 213,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2109,6 +2109,26 @@
             "hora_real": "",
             "ciudad": "TARAPOTO",
             "vuelo": "LA2088",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/11/2026",
+            "hora_prog": "12:45",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2120",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/11/2026",
+            "hora_prog": "16:20",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2121",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
