@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "15/11/2026 20:41:04",
-    "conteo": 19,
+    "ultima_sincronizacion": "15/11/2026 20:50:54",
+    "conteo": 20,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -189,6 +189,16 @@
             "hora_real": "",
             "ciudad": "JULIACA",
             "vuelo": "LA2148",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "15/11/2026",
+            "hora_prog": "21:15",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2034",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
