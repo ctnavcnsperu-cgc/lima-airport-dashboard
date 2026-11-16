@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "16/11/2026 17:30:54",
-    "conteo": 216,
+    "ultima_sincronizacion": "16/11/2026 17:41:02",
+    "conteo": 217,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2159,6 +2159,16 @@
             "hora_real": "",
             "ciudad": "CAJAMARCA",
             "vuelo": "LA2295",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/11/2026",
+            "hora_prog": "23:34",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2490",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
