@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "16/11/2026 02:50:55",
-    "conteo": 6,
+    "ultima_sincronizacion": "16/11/2026 03:00:52",
+    "conteo": 11,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -59,6 +59,56 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2003",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/11/2026",
+            "hora_prog": "10:55",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "LA2015",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/11/2026",
+            "hora_prog": "11:30",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "LA2299",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/11/2026",
+            "hora_prog": "11:50",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2004",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/11/2026",
+            "hora_prog": "14:50",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "LA2298",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/11/2026",
+            "hora_prog": "14:55",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2016",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
