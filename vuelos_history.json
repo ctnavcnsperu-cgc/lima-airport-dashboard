@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "16/11/2026 08:11:13",
-    "conteo": 207,
+    "ultima_sincronizacion": "16/11/2026 08:21:03",
+    "conteo": 209,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2069,6 +2069,26 @@
             "hora_real": "",
             "ciudad": "JAUJA",
             "vuelo": "LA2190",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/11/2026",
+            "hora_prog": "11:30",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "LA2019",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/11/2026",
+            "hora_prog": "15:50",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "LA2038",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
