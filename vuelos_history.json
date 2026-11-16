@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "16/11/2026 07:50:56",
-    "conteo": 206,
+    "ultima_sincronizacion": "16/11/2026 08:01:07",
+    "conteo": 207,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2060,6 +2060,16 @@
             "ciudad": "JAUJA",
             "vuelo": "H25441",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/11/2026",
+            "hora_prog": "08:15",
+            "hora_real": "",
+            "ciudad": "JAUJA",
+            "vuelo": "LA2190",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
