@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "16/11/2026 05:50:50",
-    "conteo": 202,
+    "ultima_sincronizacion": "16/11/2026 06:01:00",
+    "conteo": 203,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2020,6 +2020,16 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2016",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "16/11/2026",
+            "hora_prog": "07:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2123",
+            "aerolinea": "Star Peru",
             "estado": "CANCELADO"
         }
     ]
