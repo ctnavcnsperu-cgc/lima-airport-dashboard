@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "16/11/2026 16:11:17",
-    "conteo": 214,
+    "ultima_sincronizacion": "16/11/2026 16:20:52",
+    "conteo": 215,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2139,6 +2139,16 @@
             "hora_real": "",
             "ciudad": "TACNA",
             "vuelo": "LA2067",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "16/11/2026",
+            "hora_prog": "18:20",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2068",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
