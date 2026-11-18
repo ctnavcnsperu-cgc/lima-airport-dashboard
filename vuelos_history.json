@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "17/11/2026 23:50:47",
-    "conteo": 232,
+    "ultima_sincronizacion": "18/11/2026 00:01:20",
+    "conteo": 245,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2320,6 +2320,136 @@
             "ciudad": "CUSCO",
             "vuelo": "LA2029",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "07:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2123",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "11:50",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3131",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "12:55",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25025",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "19:05",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3243",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "19:25",
+            "hora_real": "",
+            "ciudad": "PIURA",
+            "vuelo": "H25228",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "19:30",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "H25302",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "10:10",
+            "hora_real": "",
+            "ciudad": "HUANUCO",
+            "vuelo": "4A4030",
+            "aerolinea": "ATSA Aero Transporte",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "10:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2124",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "16:45",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "H25026",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "17:40",
+            "hora_real": "",
+            "ciudad": "PUCALLPA",
+            "vuelo": "2I3132",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "22:10",
+            "hora_real": "",
+            "ciudad": "TARAPOTO",
+            "vuelo": "2I3244",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "23:25",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "H25303",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "23:35",
+            "hora_real": "",
+            "ciudad": "PIURA",
+            "vuelo": "H25229",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
