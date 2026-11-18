@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "18/11/2026 08:11:00",
-    "conteo": 15,
+    "ultima_sincronizacion": "18/11/2026 08:21:02",
+    "conteo": 16,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -149,6 +149,16 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2129",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "11:25",
+            "hora_real": "",
+            "ciudad": "AREQUIPA",
+            "vuelo": "LA2104",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
