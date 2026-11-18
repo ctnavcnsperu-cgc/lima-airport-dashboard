@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "18/11/2026 04:50:55",
-    "conteo": 14,
+    "ultima_sincronizacion": "18/11/2026 05:01:03",
+    "conteo": 15,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -139,6 +139,16 @@
             "hora_real": "",
             "ciudad": "CUSCO",
             "vuelo": "LA2130",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "18/11/2026",
+            "hora_prog": "12:00",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2129",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
