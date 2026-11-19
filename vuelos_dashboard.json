@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/11/2026 16:10:47",
-    "conteo": 17,
+    "ultima_sincronizacion": "19/11/2026 16:20:47",
+    "conteo": 18,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -169,6 +169,16 @@
             "hora_real": "",
             "ciudad": "CAJAMARCA",
             "vuelo": "LA2018",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "19/11/2026",
+            "hora_prog": "17:10",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2029",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
