@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/11/2026 10:21:18",
-    "conteo": 12,
+    "ultima_sincronizacion": "19/11/2026 10:31:00",
+    "conteo": 14,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -120,6 +120,26 @@
             "ciudad": "IQUITOS",
             "vuelo": "H25367",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "19/11/2026",
+            "hora_prog": "11:35",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2061",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "19/11/2026",
+            "hora_prog": "15:15",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2062",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
