@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "19/11/2026 14:40:45",
-    "conteo": 263,
+    "ultima_sincronizacion": "19/11/2026 14:50:53",
+    "conteo": 264,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2626,6 +2626,16 @@
             "tipo": "LLEGADAS",
             "fecha": "19/11/2026",
             "hora_prog": "14:21",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "LA2017",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "19/11/2026",
+            "hora_prog": "15:21",
             "hora_real": "",
             "ciudad": "CAJAMARCA",
             "vuelo": "LA2017",
