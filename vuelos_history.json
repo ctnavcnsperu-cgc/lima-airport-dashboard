@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "20/11/2026 13:50:59",
-    "conteo": 277,
+    "ultima_sincronizacion": "20/11/2026 14:00:54",
+    "conteo": 278,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2769,6 +2769,16 @@
             "hora_real": "",
             "ciudad": "AREQUIPA",
             "vuelo": "LA2203",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "20/11/2026",
+            "hora_prog": "18:55",
+            "hora_real": "",
+            "ciudad": "PIURA",
+            "vuelo": "LA2339",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
