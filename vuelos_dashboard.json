@@ -1,20 +1,10 @@
 {
-    "ultima_sincronizacion": "19/11/2026 23:50:45",
-    "conteo": 20,
+    "ultima_sincronizacion": "20/11/2026 00:01:07",
+    "conteo": 8,
     "vuelos": [
         {
             "tipo": "SALIDAS",
-            "fecha": "19/11/2026",
-            "hora_prog": "05:45",
-            "hora_real": "",
-            "ciudad": "CAJAMARCA",
-            "vuelo": "H25340",
-            "aerolinea": "Sky Airline",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "19/11/2026",
+            "fecha": "20/11/2026",
             "hora_prog": "07:15",
             "hora_real": "",
             "ciudad": "PUCALLPA",
@@ -24,7 +14,17 @@
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "19/11/2026",
+            "fecha": "20/11/2026",
+            "hora_prog": "07:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2123",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "20/11/2026",
             "hora_prog": "11:55",
             "hora_real": "",
             "ciudad": "HUANUCO",
@@ -34,37 +34,7 @@
         },
         {
             "tipo": "SALIDAS",
-            "fecha": "19/11/2026",
-            "hora_prog": "15:00",
-            "hora_real": "",
-            "ciudad": "HUANUCO",
-            "vuelo": "2I4220",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "19/11/2026",
-            "hora_prog": "18:50",
-            "hora_real": "",
-            "ciudad": "CHICLAYO",
-            "vuelo": "2I2225",
-            "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "19/11/2026",
-            "hora_prog": "19:00",
-            "hora_real": "",
-            "ciudad": "IQUITOS",
-            "vuelo": "H25366",
-            "aerolinea": "Sky Airline",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "19/11/2026",
+            "fecha": "20/11/2026",
             "hora_prog": "19:05",
             "hora_real": "",
             "ciudad": "TARAPOTO",
@@ -74,17 +44,7 @@
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "19/11/2026",
-            "hora_prog": "09:25",
-            "hora_real": "",
-            "ciudad": "CAJAMARCA",
-            "vuelo": "H25341",
-            "aerolinea": "Sky Airline",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "19/11/2026",
+            "fecha": "20/11/2026",
             "hora_prog": "10:05",
             "hora_real": "",
             "ciudad": "PUCALLPA",
@@ -94,7 +54,17 @@
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "19/11/2026",
+            "fecha": "20/11/2026",
+            "hora_prog": "10:20",
+            "hora_real": "",
+            "ciudad": "CHICLAYO",
+            "vuelo": "2I2124",
+            "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "20/11/2026",
             "hora_prog": "14:10",
             "hora_real": "",
             "ciudad": "HUANUCO",
@@ -104,102 +74,12 @@
         },
         {
             "tipo": "LLEGADAS",
-            "fecha": "19/11/2026",
+            "fecha": "20/11/2026",
             "hora_prog": "22:10",
             "hora_real": "",
             "ciudad": "TARAPOTO",
             "vuelo": "2I3244",
             "aerolinea": "Star Peru",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "19/11/2026",
-            "hora_prog": "23:40",
-            "hora_real": "",
-            "ciudad": "IQUITOS",
-            "vuelo": "H25367",
-            "aerolinea": "Sky Airline",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "19/11/2026",
-            "hora_prog": "11:35",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2061",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "19/11/2026",
-            "hora_prog": "15:15",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2062",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "19/11/2026",
-            "hora_prog": "14:21",
-            "hora_real": "",
-            "ciudad": "CAJAMARCA",
-            "vuelo": "LA2017",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "19/11/2026",
-            "hora_prog": "15:21",
-            "hora_real": "",
-            "ciudad": "CAJAMARCA",
-            "vuelo": "LA2017",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "19/11/2026",
-            "hora_prog": "16:05",
-            "hora_real": "",
-            "ciudad": "CAJAMARCA",
-            "vuelo": "LA2018",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "19/11/2026",
-            "hora_prog": "17:10",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "LA2029",
-            "aerolinea": "LATAM Airlines",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "SALIDAS",
-            "fecha": "19/11/2026",
-            "hora_prog": "16:54",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "JA7041",
-            "aerolinea": "JetSmart",
-            "estado": "CANCELADO"
-        },
-        {
-            "tipo": "LLEGADAS",
-            "fecha": "19/11/2026",
-            "hora_prog": "17:15",
-            "hora_real": "",
-            "ciudad": "CUSCO",
-            "vuelo": "JA7040",
-            "aerolinea": "JetSmart",
             "estado": "CANCELADO"
         }
     ]
