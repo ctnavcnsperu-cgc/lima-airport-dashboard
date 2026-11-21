@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "21/11/2026 04:40:46",
-    "conteo": 284,
+    "ultima_sincronizacion": "21/11/2026 04:50:49",
+    "conteo": 285,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -2839,6 +2839,16 @@
             "hora_real": "",
             "ciudad": "IQUITOS",
             "vuelo": "H25360",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "21/11/2026",
+            "hora_prog": "09:15",
+            "hora_real": "",
+            "ciudad": "IQUITOS",
+            "vuelo": "H25361",
             "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
