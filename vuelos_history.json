@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "23/11/2026 15:40:57",
-    "conteo": 308,
+    "ultima_sincronizacion": "23/11/2026 15:50:47",
+    "conteo": 309,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3080,6 +3080,16 @@
             "ciudad": "PUCALLPA",
             "vuelo": "2I3132",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "23/11/2026",
+            "hora_prog": "17:00",
+            "hora_real": "",
+            "ciudad": "CUSCO",
+            "vuelo": "LA2028",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
