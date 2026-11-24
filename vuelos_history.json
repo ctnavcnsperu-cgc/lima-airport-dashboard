@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/11/2026 16:11:15",
-    "conteo": 327,
+    "ultima_sincronizacion": "24/11/2026 16:21:05",
+    "conteo": 329,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3270,6 +3270,26 @@
             "ciudad": "AYACUCHO",
             "vuelo": "H25210",
             "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/11/2026",
+            "hora_prog": "17:30",
+            "hora_real": "",
+            "ciudad": "AYACUCHO",
+            "vuelo": "LA2186",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/11/2026",
+            "hora_prog": "17:55",
+            "hora_real": "",
+            "ciudad": "AYACUCHO",
+            "vuelo": "LA2185",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
