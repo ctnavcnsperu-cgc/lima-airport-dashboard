@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "24/11/2026 15:40:50",
-    "conteo": 325,
+    "ultima_sincronizacion": "24/11/2026 15:50:49",
+    "conteo": 327,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3250,6 +3250,26 @@
             "ciudad": "AREQUIPA",
             "vuelo": "LA2044",
             "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "24/11/2026",
+            "hora_prog": "16:52",
+            "hora_real": "",
+            "ciudad": "AYACUCHO",
+            "vuelo": "H25209",
+            "aerolinea": "Sky Airline",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "24/11/2026",
+            "hora_prog": "17:25",
+            "hora_real": "",
+            "ciudad": "AYACUCHO",
+            "vuelo": "H25210",
+            "aerolinea": "Sky Airline",
             "estado": "CANCELADO"
         }
     ]
