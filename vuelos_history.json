@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "23/11/2026 21:40:48",
-    "conteo": 311,
+    "ultima_sincronizacion": "23/11/2026 21:50:58",
+    "conteo": 313,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3109,6 +3109,26 @@
             "hora_real": "",
             "ciudad": "CAJAMARCA",
             "vuelo": "LA2296",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "23/11/2026",
+            "hora_prog": "23:25",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2198",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "23/11/2026",
+            "hora_prog": "23:15",
+            "hora_real": "",
+            "ciudad": "TACNA",
+            "vuelo": "LA2199",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
