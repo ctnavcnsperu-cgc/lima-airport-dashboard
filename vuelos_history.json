@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "26/11/2026 10:31:04",
-    "conteo": 352,
+    "ultima_sincronizacion": "26/11/2026 10:40:55",
+    "conteo": 353,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3520,6 +3520,16 @@
             "ciudad": "TARAPOTO",
             "vuelo": "2I3244",
             "aerolinea": "Star Peru",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "26/11/2026",
+            "hora_prog": "06:55",
+            "hora_real": "",
+            "ciudad": "PIA",
+            "vuelo": "S4A024",
+            "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         }
     ]
