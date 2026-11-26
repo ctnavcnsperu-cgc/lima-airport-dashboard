@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "26/11/2026 14:01:04",
-    "conteo": 353,
+    "ultima_sincronizacion": "26/11/2026 14:10:47",
+    "conteo": 354,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3529,6 +3529,16 @@
             "hora_real": "",
             "ciudad": "PIA",
             "vuelo": "S4A024",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "26/11/2026",
+            "hora_prog": "14:00",
+            "hora_real": "",
+            "ciudad": "PIA",
+            "vuelo": "S4A1985",
             "aerolinea": "AEROLÍNEA",
             "estado": "CANCELADO"
         }
