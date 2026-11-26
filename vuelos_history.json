@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "26/11/2026 18:21:06",
-    "conteo": 354,
+    "ultima_sincronizacion": "26/11/2026 18:30:50",
+    "conteo": 355,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3540,6 +3540,16 @@
             "ciudad": "PIA",
             "vuelo": "S4A1985",
             "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "26/11/2026",
+            "hora_prog": "19:50",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2211",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
