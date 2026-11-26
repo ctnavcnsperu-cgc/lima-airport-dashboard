@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "25/11/2026 19:51:03",
-    "conteo": 341,
+    "ultima_sincronizacion": "25/11/2026 20:01:01",
+    "conteo": 342,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3409,6 +3409,16 @@
             "hora_real": "",
             "ciudad": "CAJAMARCA",
             "vuelo": "LA2259",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "25/11/2026",
+            "hora_prog": "22:15",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2210",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
