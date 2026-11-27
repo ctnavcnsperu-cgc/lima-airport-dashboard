@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "27/11/2026 07:10:56",
-    "conteo": 8,
+    "ultima_sincronizacion": "27/11/2026 07:21:03",
+    "conteo": 10,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -80,6 +80,26 @@
             "ciudad": "PIA",
             "vuelo": "S4A1875",
             "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "27/11/2026",
+            "hora_prog": "07:40",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "LA2291",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/11/2026",
+            "hora_prog": "08:20",
+            "hora_real": "",
+            "ciudad": "CAJAMARCA",
+            "vuelo": "LA2290",
+            "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
     ]
