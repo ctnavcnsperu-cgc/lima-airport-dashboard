@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "27/11/2026 04:31:00",
-    "conteo": 367,
+    "ultima_sincronizacion": "27/11/2026 04:41:02",
+    "conteo": 368,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3666,6 +3666,16 @@
             "tipo": "SALIDAS",
             "fecha": "27/11/2026",
             "hora_prog": "07:30",
+            "hora_real": "",
+            "ciudad": "PIA",
+            "vuelo": "S4A1875",
+            "aerolinea": "AEROLÍNEA",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "LLEGADAS",
+            "fecha": "27/11/2026",
+            "hora_prog": "10:40",
             "hora_real": "",
             "ciudad": "PIA",
             "vuelo": "S4A1875",
