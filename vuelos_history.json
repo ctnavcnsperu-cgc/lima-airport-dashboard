@@ -1,6 +1,6 @@
 {
-    "ultima_sincronizacion": "26/11/2026 19:50:46",
-    "conteo": 357,
+    "ultima_sincronizacion": "26/11/2026 20:00:56",
+    "conteo": 358,
     "vuelos": [
         {
             "tipo": "SALIDAS",
@@ -3569,6 +3569,16 @@
             "hora_real": "",
             "ciudad": "JULIACA",
             "vuelo": "LA2147",
+            "aerolinea": "LATAM Airlines",
+            "estado": "CANCELADO"
+        },
+        {
+            "tipo": "SALIDAS",
+            "fecha": "26/11/2026",
+            "hora_prog": "18:15",
+            "hora_real": "",
+            "ciudad": "JULIACA",
+            "vuelo": "LA2209",
             "aerolinea": "LATAM Airlines",
             "estado": "CANCELADO"
         }
